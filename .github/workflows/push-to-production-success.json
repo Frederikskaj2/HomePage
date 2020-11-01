@@ -1,0 +1,26 @@
+{
+	"@type": "MessageCard",
+	"@context": "https://schema.org/extensions",
+	"title": "Hjemmeside opdateret",
+	"summary": "Ny version",
+	"sections": [
+		{
+            "activityTitle": "Hjemmeside",
+            "activitySubtitle": "TIMESTAMP",
+            "activityImage": "https://frederikskaj2.dk/icon.png",
+			"text": "Ny version bygget fra [git commit COMMITSHORT](https://github.com/Frederikskaj2/HomePage/tree/COMMITLONG)."
+		}
+	],
+	"potentialAction": [
+		{
+			"@type": "OpenUri",
+			"name": "Besøg hjemmeside",
+			"targets": [
+				{
+					"os": "default",
+					"uri": "https://frederikskaj2.dk/"
+				}
+			]
+		}
+	]
+}

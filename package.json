@@ -1,0 +1,40 @@
+{
+  "name": "frederikskaj2",
+  "private": true,
+  "description": "Web site for Frederikskaj 2",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@mdx-js/mdx": "^1.6.16",
+    "@mdx-js/react": "^1.6.16",
+    "fontsource-public-sans": "^3.0.3",
+    "gatsby": "^2.24.53",
+    "gatsby-plugin-client-side-redirect": "^1.1.0",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-plugin-mdx": "^1.2.37",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sharp": "^2.6.31",
+    "gatsby-remark-copy-linked-files": "^2.3.13",
+    "gatsby-remark-images": "^3.3.28",
+    "gatsby-source-filesystem": "^2.3.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "gatsby-cli": "^2.12.106",
+    "prettier": "2.0.5"
+  }
+}

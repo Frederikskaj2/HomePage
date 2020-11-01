@@ -1,0 +1,60 @@
+{
+    "palette": {
+        "primary": {
+            "main": "#0277bd"
+        },
+        "secondary": {
+            "main": "#d81b60"
+        }
+    },
+    "typography": {
+        "fontFamily": "'Public Sans', sans-serif",
+        "fontSize": 18,
+        "h1": {
+            "fontWeight": 200
+        },
+        "h2": {
+            "fontWeight": 200
+        },
+        "h3": {
+            "fontWeight": 200
+        },
+        "h4": {
+            "fontWeight": 700
+        },
+        "h5": {
+            "fontWeight": 700
+        },
+        "h6": {
+            "fontWeight": 700
+        },
+        "subtitle1": {
+            "fontWeight": 200
+        },
+        "subtitle2": {
+            "fontWeight": 200
+        },
+        "body1": {
+            "fontWeight": 200
+        },
+        "body2": {
+            "fontWeight": 200
+        },
+        "button": {
+            "fontWeight": 200
+        },
+        "caption": {
+            "fontWeight": 200
+        },
+        "overline": {
+            "fontWeight": 200
+        }
+    },
+    "overrides": {
+        "MuiCssBaseline": {
+            "@global": {
+                "@font-face": ["'Public Sans'"]
+            }
+        }
+    }
+}

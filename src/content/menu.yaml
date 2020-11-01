@@ -1,0 +1,68 @@
+-
+  title: Information til beboerne
+  narrowTitle: Information
+  folder: information
+  groups:
+    -
+      header: Lejlighederne
+      name: lejlighederne
+    -
+      header: Området
+      name: omraadet
+    -
+      header: Bådebroer
+      name: baadebroer
+    -
+      header: Vedligehold
+      name: vedligehold
+-
+  title: Fællesskab
+  folder: faellesskab
+  groups:
+    -
+      header: Fælleshus
+      name: faelleshus
+      items:
+        -
+          title: Reservation
+          link: https://lokaler.frederikskaj2.dk/
+    -
+      header: Kajaklaug
+      name: kajaklaug
+    -
+      header: Vinterbadelaug
+      name: vinterbadelaug
+-
+  title: E/F og G/F Frederikskaj 2
+  narrowTitle: E/F og G/F
+  folder: foreningerne
+  groups:
+    -
+      header: Ejerforeningen
+      name: ejerforeningen
+    -
+      header: Grundejerforeningen
+      name: grundejerforeningen
+-
+  title: Historie
+  folder: historie
+  groups:
+    -
+      header: Fotos
+      name: fotos
+    -
+      header: Begivenheder
+      name: begivenheder
+-
+  title: Kontakt
+  folder: kontakt
+  groups:
+    -
+      header: Beboer
+      name: beboer
+    -
+      header: Lejlighedsejer
+      name: lejlighedsejer
+    -
+      header: Bådejer
+      name: baadejer

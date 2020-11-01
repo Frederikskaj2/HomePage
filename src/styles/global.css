@@ -1,0 +1,70 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+/* This is a visual tweak to ensure that sections without paragraphs (e.g.
+   images) that are separated by h2 gets enough space between. */
+h2 {
+    margin-top: 16px !important;
+}
+
+.iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.video-container {
+    margin-bottom: 1rem;
+}
+
+.video-container video {
+    width: 100%;
+}
+
+.object-container {
+    overflow: hidden;
+    padding-top: 141%;
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.object-container object {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.gallery-root {
+    overflow: auto;
+}
+
+.gallery-list {
+    display: flex;
+    margin: 0 -8px;
+}
+
+.gallery-item {
+    flex-shrink: 0;
+    margin: 0 8px;
+    width: 872px;
+}

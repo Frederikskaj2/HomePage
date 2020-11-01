@@ -24,6 +24,8 @@ jobs:
         run: docker push ghcr.io/frederikskaj2/homepage:test
       - name: Deploy container
         run: "curl --request POST '${{secrets.AZURE_WEBHOOK_TEST}}' -H 'Content-Type: application/json' -d '{}'"
+      - name: Get source
+        uses: actions/checkout@v2
       - name: Get timestamp
         run: echo "TIMESTAMP=`TZ=Europe/Copenhagen date +"%d-%m-%Y %H:%M"`" >> $GITHUB_ENV
       - name: Get short commit SHA

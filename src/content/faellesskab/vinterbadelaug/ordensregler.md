@@ -4,6 +4,8 @@ menuTitle: Ordensregler
 menuGroup: vinterbadelaug
 sequence: 4
 ---
+**Bemærk også** [anbefalinger vedrørende covid-19](../covid-19/).
+
 Åbningstider: Alle ugens dage fra kl. 6.30 til&nbsp;22.00.
 
 El-kortet er personligt og må ikke overdrages/udlånes til andre.

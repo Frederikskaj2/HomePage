@@ -58,7 +58,7 @@ Affaldsskur:
 
 - Affald skal komprimeres mest muligt ved nedlæggelse i container.
 
-- Hvis ikke der er plads i de opstillede containere, henvises til Genbrugspladsen, Vasbygade 26.
+- Hvis ikke der er plads i de opstillede containere, henvises til Sydhavn Genbrugscenter, Bådehavnsgade 50.
 
 - Overholdes ovenstående ikke, og dette betyder en udgift for ejerforeningen eller grundejerforeningen, vil denne udgift blive pålagt den/de ansvarlige beboere.
 
@@ -66,7 +66,7 @@ Affaldsskur:
 
 - Opslag fra vicevært, bestyrelse eller kommune ved affaldscontainere skal altid efterleves.
 
-- Storskrald, byggeaffald, hvidevarer, juletræer og andet, som der ikke er en passende affaldsbeholder til på området, skal beboere selv skaffe sig af med, evt., på Genbrugspladsen, Vasbygade 26.
+- Storskrald, byggeaffald, hvidevarer, juletræer og andet, som der ikke er en passende affaldsbeholder til på området, skal beboere selv skaffe sig af med, evt., på Sydhavn Genbrugscenter, Bådehavnsgade 50.
 
 ## Aflåsning
 
@@ -228,7 +228,7 @@ Garbage room (ground floor):
 
 - Trash shall be compressed as much as possible prior placing it in the containers.
 
-- If there is no room in the containers, then try the other containers in the area. If they are also full, then you should take your trash to the recycling station at Genbrugspladsen, Vasbygade 26.
+- If there is no room in the containers, then try the other containers in the area. If they are also full, then you should take your trash to the recycling station at Sydhavn Genbrugscenter, Bådehavnsgade 50.
 
 - If the above rules are not followed, and it results in an extra cost for the rest of the residents/apartment owners, then that cost will be billed to the culprit.
 
@@ -236,7 +236,7 @@ Furthermore:
 
 - Notes, rules and guidelines from the Board, the Local Government or the Caretaker shall always be obeyed.
 
-- Big trash items, such as building materials, washing machines, Christmas trees, etc. for which there are no dedicated containers, has to be disposed of by the residents themselves. That can be done at the recycling station: Genbrugspladsen, Vasbygade 26.
+- Big trash items, such as building materials, washing machines, Christmas trees, etc. for which there are no dedicated containers, has to be disposed of by the residents themselves. That can be done at the recycling station: Sydhavn Genbrugscenter, Bådehavnsgade 50.
 
 ## Lock-up
 

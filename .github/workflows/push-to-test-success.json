@@ -21,6 +21,16 @@
 					"uri": "https://test.frederikskaj2.dk/"
 				}
 			]
+		},
+		{
+			"@type": "OpenUri",
+			"name": "Opdatér hjemmeside fra testhjemmeside",
+			"targets": [
+				{
+					"os": "default",
+					"uri": "https://github.com/Frederikskaj2/HomePage/actions?query=workflow%3A%22Push+to+production%22"
+				}
+			]
 		}
 	]
 }

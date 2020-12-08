@@ -20,10 +20,6 @@ import TextInput from './TextInput';
 import Video from './Video';
 
 const useStyles = makeStyles((theme) => ({
-    ul: {
-        marginLeft: '2rem',
-        listStyleType: 'disc',
-    },
     tr: {
         '&:nth-of-type(odd)': {
             backgroundColor: theme.palette.action.hover,
@@ -46,7 +42,7 @@ export default ({ children }) => {
     const h2 = (props) => <Typography variant="h5" component="h2" gutterBottom {...props} />;
     const h3 = (props) => <Typography variant="h7" component="h3" gutterBottom {...props} />;
     const p = (props) => <Typography variant="body1" component="p" paragraph {...props} />;
-    const ul = (props) => <Typography className={classes.ul} variant="body1" component="ul" paragraph {...props} />;
+    const ul = (props) => <Typography variant="body1" component="ul" paragraph {...props} />;
     const li = (props) => <Typography variant="body1" component="li" gutterBottom {...props} />;
     const table = (props) => (
         <TableContainer>

@@ -3,8 +3,8 @@ FROM node:13.8.0 as front
 WORKDIR /app
 COPY ./ /app/
 
-RUN yarn install
-RUN yarn run build
+RUN npm install
+RUN npm run build
 
 FROM nginx:1.17.8-alpine
 RUN rm -rf /usr/share/nginx/html

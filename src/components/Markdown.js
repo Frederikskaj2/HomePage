@@ -16,6 +16,7 @@ import ContactForm from './ContactForm';
 import FacebookLink from './FacebookLink';
 import LinkTarget from './LinkTarget';
 import Pdf from './Pdf';
+import RefreshingIFrame from './RefreshingIFrame';
 import TextInput from './TextInput';
 import Video from './Video';
 
@@ -77,6 +78,7 @@ export default ({ children }) => {
         FacebookLink: FacebookLink,
         LinkTarget: LinkTarget,
         Pdf: Pdf,
+        RefreshingIFrame: RefreshingIFrame,
         TextInput: TextInput,
         Video: Video,
     };

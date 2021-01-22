@@ -11,7 +11,7 @@ Der blev i slutningen af 2017 holdt beboermøde i fælleshuset med fremvisning a
 
 De bestilte sikkerhedsdøre blev installeret i marts 2018. Det er dog stadig muligt individuelt at bestille en sikkerhedsdør, men formodentligt til en højere pris, da samme mængderabat nok ikke opnås &mdash; selvom I, ved at gå mindst to sammen, opnår rabat. Priserne kan ses i <Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="tilbuddet fra Dansk Dørsikring" />. Bestyrelsen kan dog ikke garantere, at prisen ikke går op over tid.
 
-Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på info@danskdorsikring.dk, med ejerforeningenfrederikskaj2@gmail.com i kopi.
+Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på info@danskdorsikring.dk, med ejerforeningen@frederikskaj2.dk i kopi.
 
 Det er kun tilladt at installere den [Daloc&nbsp;S43 sikkerhedsdør](http://www.dorkatalog.daloc.dk/sikkerhedsdore/S43/) (i&nbsp;hvid) som Dansk Dørsikring tilbyder. Dette er for at holde stilen og udtrykket.
 

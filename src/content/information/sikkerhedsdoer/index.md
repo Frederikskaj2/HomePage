@@ -9,7 +9,9 @@ import tilbudPaaSikkerhedsdoerPdf from './tilbud-paa-sikkerhedsdoer.pdf'
 
 Der blev i slutningen af 2017 holdt beboermøde i fælleshuset med fremvisning af en sikkerhedsdør (hoveddør til lejlighed), og der var efterfølgende 14 lejligheder som lagde bestillinger. En sikkerhedsdør er og var for egen regning.
 
-De bestilte sikkerhedsdøre blev installeret i marts 2018. Det er dog stadig muligt individuelt at bestille en sikkerhedsdør, men formodentligt til en højere pris, da samme mængderabat nok ikke opnås &mdash; selvom I, ved at gå mindst to sammen, opnår rabat. Priserne kan ses i <Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="tilbuddet fra Dansk Dørsikring" />. Bestyrelsen kan dog ikke garantere, at prisen ikke går op over tid.
+De bestilte sikkerhedsdøre blev installeret i marts 2018. Det er dog stadig muligt individuelt at bestille en sikkerhedsdør, men formodentligt til en højere pris, da samme mængderabat nok ikke opnås &mdash; selvom I, ved at gå mindst to sammen, opnår rabat. Bestyrelsen kan dog ikke garantere, at prisen ikke går op over tid.
+
+<Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="Tilbuddet fra Dansk Dørsikring fra 2017" />
 
 Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på info@danskdorsikring.dk, med ejerforeningen@frederikskaj2.dk i kopi.
 

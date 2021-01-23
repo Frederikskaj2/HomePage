@@ -28,11 +28,11 @@ Spjældene i rummene er justeret inden overtagelse af lejligheden, og hvis man j
 
 ## Vedligehold
 
-Vedligehold af anlægget står alle ejere selv for, og er således ikke ejerforeningens ansvar. Aggregatet skal vedligeholdes ved skift af filter (ved behov, MT&nbsp;Højgaard har sagt hvert halve til hele år) samt servicering og kontrol af aggregat (en gang årligt).
+Vedligehold af anlægget står alle ejere selv for, og er således ikke ejerforeningens ansvar. Aggregatet skal vedligeholdes ved skift af filter (ved behov, MT&nbsp;Højgaard har sagt hvert halve til hele år) samt servicering og kontrol af aggregat (én gang årligt).
 
 For at se om anlægget har behov for filterskift, skal anlægget køre på max (tænd for emhætten), og kig derefter på betjeningspanelet, og se om den røde filterlampe lyser. Udover vedligehold af selve anlægget, skal fedtfiltrene i emhætten vaskes ved behov.
 
-Ejerforeningen har faciliteret en <a href="lygas-tilbud.pdf" target="_blank">aftale</a> med [Lygas](https://www.lygas.dk/), som kan sørge for service og filterskift, og man som lejlighedsejer kan melde sig til.
+Ejerforeningen har faciliteret en <a href="lygas-tilbud.pdf" target="_blank">aftale</a> med [OK Energiteknik A/S](https://www.ok-energiteknik.dk/) (tidligere Lygas), som kan sørge for service og filterskift. Man kan som lejlighedsejer melde sig til [ved at kontakte dem på deres hjemmeside](https://www.ok-energiteknik.dk/privat/bestil/ventilationsservice) (mærke er _Vacumex NT260EC-ST-RT3_ og årstal er _2016_). Ud over service og filterskift tilbyder de også grov indregulering for kr.&nbsp;1.000 som kan være nødvendigt hvis man selv har justeret på ventilerne og som et resultat heraf har dårlig ventilation.
 
 Man kan også selv skifte sit filter. Filtre kan købes flere steder, fx hos [Filterhuset.dk](https://www.filterhuset.dk/vacumex/nt-260).
 

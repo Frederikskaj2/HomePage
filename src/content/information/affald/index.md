@@ -24,6 +24,8 @@ Bemærk at glascontaineren står udenfor affaldsskuret ved indkørselsvejen til 
 
 Containerne i affaldsskuret må ikke overfyldes.
 
+Specielle affaldsposer til bioaffald kan [bestilles gratis hos Københavns Kommune](https://www.kk.dk/bioposer). De kan også afhentes på [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/) og kommunale biblioteker.
+
 ## Restaffald
 
 Det affald som ikke kan sorteres er [restaffald (dagrenovation)](https://www.kk.dk/artikel/saadan-sorterer-du-dit-restaffald-dagrenovation) fx:

@@ -26,6 +26,8 @@ Containerne i affaldsskuret må ikke overfyldes.
 
 Specielle affaldsposer til bioaffald kan [bestilles gratis hos Københavns Kommune](https://www.kk.dk/bioposer). De kan også afhentes på [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/) og kommunale biblioteker.
 
+Hvis du er i tvivl om hvordan et specifikt stykke affald skal sorteres kan du søge i [Affalds-ABC](https://nemaffaldsservice.kk.dk/AffaldsABC).
+
 ## Restaffald
 
 Det affald som ikke kan sorteres er [restaffald (dagrenovation)](https://www.kk.dk/artikel/saadan-sorterer-du-dit-restaffald-dagrenovation) fx:

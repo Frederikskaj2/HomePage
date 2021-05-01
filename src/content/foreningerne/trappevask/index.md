@@ -8,7 +8,7 @@ Trappevask i ejerforeningen sker, som hovedregel, hver fredag.
 
 | Opgave | Interval |
 | :- | :- |
-| Vask af syb hovedtrapper samt håndtag og gelænder | Ugentligt |
+| Vask af syv hovedtrapper samt håndtag og gelænder | Ugentligt |
 | Vask af gulv i indgangspartierne | Ugentligt |
 | Støvsugning og vask af gulv i elevatorer | Ugentligt |
 | Pudsning af spejle i elevator | Ugentligt |

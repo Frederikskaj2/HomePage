@@ -6,19 +6,19 @@ sequence: 5
 ---
 Trappevask i ejerforeningen sker, som hovedregel, hver fredag.
 
-| Opgave | Omfang |
+| Opgave | Interval |
 | :- | :- |
-| Vask af 7 hovedtrapper | Udføres ugentligt |
-| Vask af gulv i indgangspartierne | Udføres ugentligt |
-| Vask af gulv i elevatorer | Udføres ugentligt |
-| Pudsning af spejle i elevator | Udføres ugentligt |
-| Vask af repoer | Udføres ugentligt |
-| Fjernelse af spindelvæv | Udføres månedligt |
-| Aftørring af pletter på vægge | Udføres månedligt |
-| Aftørring af skaktlåger | Udføres månedligt |
-| Aftørring af postkasser | Udføres månedligt |
-| Aftørring af balustre og gelænder | Udføres månedligt |
-| Aftørring af vindueskarme | Udføres månedligt |
-| Stålpleje af elevator | Udføres månedligt |
-| Vinduespolering af vinduer i opgangen | Udføres 4 gange årligt |
-| Vinduespolering af vindfang | Udføres 4 gange årligt |
+| Vask af syb hovedtrapper samt håndtag og gelænder | Ugentligt |
+| Vask af gulv i indgangspartierne | Ugentligt |
+| Støvsugning og vask af gulv i elevatorer | Ugentligt |
+| Pudsning af spejle i elevator | Ugentligt |
+| Vask af repoer | Ugentligt |
+| Aftørring af postkasser | Ugentligt |
+| Aftørring af skaktlåger | Ugentligt |
+| Pudsning af glas i indgangspartierne, karme og dørtelefon | Ugentligt |
+| Aftørring af lysarmatur &mdash; stueplan | Ugentligt |
+| Stålpleje af elevator | Hver 14. dag |
+| Fjernelse af spindelvæv | Månedligt |
+| Aftørring af balustre og gelænder | Månedligt |
+| Aftørring af vindueskarme | Månedligt |
+| Aftørring af dør til skralderum samt lampe u. indgang | Månedligt |

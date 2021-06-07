@@ -3,7 +3,7 @@ title: Kontakt vedrørende bådpladser
 menuTitle: Bådpladser
 menuGroup: baadejer
 ---
-Bådpladser administreres af [Sjeldani Boligadministration](https://sjeldani.dk/). Heidi Jeppesen er kontaktperson.
+Bådpladser administreres af [Sjeldani Boligadministration](https://sjeldani.dk/).
 
 ## Skriv til Sjeldani om bådpladser
 

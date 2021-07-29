@@ -7,6 +7,18 @@ redirectFrom:
 ---
 Dokumenter vedrørende generalforsamlinger i Ejerforeningen Frederikskaj&nbsp;2.
 
+## Generalforsamling 22. juni 2021
+
+import referat20210622 from './referat-2021-06-22.pdf'
+import aarsberetning20210622 from './aarsberetning-2021-06-22.pdf'
+import aarsrapport2020 from './aarsrapport-2020.pdf'
+import budget2021 from './budget-2021.pdf'
+
+- <Pdf pdf={referat20210622} text="Referat" />
+- <Pdf pdf={aarsberetning20210622} text="Årsberetning" />
+- <Pdf pdf={aarsrapport2020} text="Årsrapport" />
+- <Pdf pdf={budget2021} text="Budget" />
+
 ## Generalforsamling 17. juni 2020
 
 import referat20200617 from './referat-2020-06-17.pdf'

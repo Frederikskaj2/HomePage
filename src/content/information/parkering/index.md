@@ -9,7 +9,7 @@ redirectFrom:
 
 Der er parkeringsregler på/ved Frederikskaj&nbsp;2. Disse fremgår ved tydelig skiltning, og de bliver håndhævet af [COPARK](https://copark.dk/).
 
-Beboerne kan parkere gratis, hvis deres køretøj er registreret i COPARKs app til mobiltelefon ([Android](https://play.google.com/store/apps/details?id=no.giantleap.parko.copark)/[iPhone](https://apps.apple.com/dk/app/copark/id1503185040?l=da)). I appen kan beboere også registrere køretøjer tilhørende deres gæster, håndværkere og lignende, som dermed kan holde gratis i 24&nbsp;timer.
+Beboerne kan parkere gratis, hvis deres køretøj er registreret i COPARKs app til mobiltelefon ([Android](https://play.google.com/store/apps/details?id=no.giantleap.parko.copark)/[iPhone](https://apps.apple.com/dk/app/copark/id1503185040?l=da)). Hver lejlighed kan registrere op til **to telefonnumre**, og hver parkeringstilladelse giver mulighed for at registrere op til **to køretøjer** i appen (dvs. i alt fire køretøjer). Endvidere kan beboere også registrere køretøjer tilhørende deres gæster, håndværkere og lignende, som dermed kan holde gratis i 24&nbsp;timer. Man behøver ikke at eje et køretøj for at blive registeret hos COPARK, og dermed har alle beboere mulighed for at oprette midlertidige tilladelser til deres gæster.
 
 Som **ejer** på Frederikskaj&nbsp;2 kan man få registreret sit mobilnummer hos bestyrelsen. Som **lejer** skal man kontakte sin udlejer for at blive registreret.
 
@@ -21,6 +21,17 @@ Frederikskaj&nbsp;2 har fem handikap-pladser, som er klart opmærket. Tre ud for
 
 Generelt er al motorkørsel inde i bebyggelsen forbudt, som også markeret med skilte ved indkørselsvejene, og derfor er den indre del af bebyggelsen afspærret. Undtagelsen er dog, hvis man har indhentet tilladelse i forbindelse med flytning eller andet.
 
-Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man kontakte viceværten for tilladelse til at køre ind og parkere på vejene foran bygningerne. Viceværten ville i så fald skulle hjælpe med at fjerne pullerterne ved hovedindkørslen.
+Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man [kontakte viceværten](/kontakt/vicevaert/) for tilladelse til at køre ind og parkere på vejene foran bygningerne. Viceværten ville i så fald skulle hjælpe med at fjerne pullerterne ved hovedindkørslen.
 
 Det er dog aldrig tilladt at køre ind på eller over græs og bede, og en gartnerregning vil følge hvis dette sker.
+
+## Indflytning
+
+Hvis man som ny beboer på Frederikskaj har behov for parkere i forbindelse med sin indflytning har man følgende muligheder:
+
+- **Ejer**: Kontakt [ejerforeningens bestyrelse](/kontakt/ejerforeningen/) og oplys telefonnumre (op til to) samt dato for indflytning.
+- **Lejer**: Kontakt din udlejer og oplys telefonnumre (op til to).
+
+Bemærk at man skal forvente en hvis sagsbehandlingstid fra man henvender sig til man får tilladelsen.
+
+Når man installeret COPARK-appen og har en parkeringstilladelse, kan man oprette midlertidige parkeringstilladelser til flyttebiler. Hvis det ikke er muligt kan man henvende sig til [viceværten](/kontakt/vicevaert/) for at få en parkeringstilladelse som kan placeres i køretøjets forrude. Som nævnt ovenfor kan viceværten også bistå med at få åbnet pullerter i forbindelse med indflytning.

@@ -47,7 +47,7 @@ Området hvor man som beboer på Frederikskaj&nbsp;2 kan parkere er markeret med
 
 ## Fremtidig parkering
 
-Det nuværende areal hvor der kan parkeres bliver i midten af 2022 inddraget i forbindelse med det byggeri som skal ligge ud til gaden. MT&nbsp;Højgaard arbejder på alternative parkeringsmuligheder i området for beboerne på Frederikskaj&nbsp;2. Når byggeriet er afsluttet, vil man som beboer (mod betaling) kunne få adgang til en parkeringsplads i det nye byggeri.
+Det nuværende areal hvor der kan parkeres bliver i midten af 2022 inddraget da området skal bebygges. MT&nbsp;Højgaard arbejder på alternative parkeringsmuligheder i området for beboerne på Frederikskaj&nbsp;2. Når byggeriet er færdigt, vil man som beboer (mod betaling) kunne få adgang til en parkeringsplads i det nye byggeri.
 
 ## Delebilsordning
 

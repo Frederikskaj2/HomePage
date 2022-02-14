@@ -28,7 +28,7 @@
 			"targets": [
 				{
 					"os": "default",
-					"uri": "https://github.com/Frederikskaj2/HomePage/actions?query=workflow%3A%22Push+to+production%22"
+					"uri": "https://github.com/Frederikskaj2/HomePage/actions/workflows/push-to-production.yaml?query=workflow%3A%22Push+to+production%22"
 				}
 			]
 		}

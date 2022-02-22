@@ -7,6 +7,12 @@ redirectFrom:
 ---
 Dokumenter vedrørende generalforsamlinger i Ejerforeningen Frederikskaj&nbsp;2.
 
+## Ekstraordinær generalforsamling 28. oktober 2021
+
+import referat20211028 from './referat-2021-10-28.pdf'
+
+- <Pdf pdf={referat20211028} text="Referat" />
+
 ## Generalforsamling 22. juni 2021
 
 import referat20210622 from './referat-2021-06-22.pdf'

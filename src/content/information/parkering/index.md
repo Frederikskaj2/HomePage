@@ -57,7 +57,7 @@ import Link from '@material-ui/core/Link'
 Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <Link href={referat20220119} color="secondary" target="_blank">referat</Link>). I den forbindelse tilbød de en delebilsordning som en del af den endelige parkeringsløsning. Ejerforeningens bestyrelse har sagt ja tak til at afprøve delebilsordningen i en prøveperiode.
 
 - De to parkeringspladser nærmest det store lyskryds er reserveret til delebiler fra Kinto Share. De er markeret med skilte på stedet og med rødt på billederne ovenfor.
-- For kunne benytte delebilerne skal man oprette sig på [Kinto Shares hjemmeside](https://kinto.services/dk/kinto-share) eller i deres app:
+- For at kunne benytte delebilerne skal man oprette sig på [Kinto Shares hjemmeside](https://kinto.services/dk/kinto-share) eller i deres app:
     - [App Store (iOS)](https://apps.apple.com/us/app/id1515779623)
     - [Google Play (Android)](https://play.google.com/store/apps/details?id=se.kintomobility.carsharing)
 

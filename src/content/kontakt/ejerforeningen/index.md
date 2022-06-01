@@ -9,15 +9,16 @@ redirectFrom:
 Bestyrelsen består af:
 
 - Stefan Vrang (formand)
-- Ditte Gottlieb
+- Jesper Jensen
 - Martin Liversage
 - Robert Jørgensen
 - Thomas Cato
 
 Suppleanter:
 
-- Bjarne Thuun Jensen
+- Emil Bech Madsen
 - Line Rasmussen
+- Tine Christiansen
 
 ## Skriv til bestyrelsen
 

@@ -7,7 +7,9 @@ redirectFrom:
 ---
 ## Parkeringsregler
 
-Der er parkeringsregler på/ved Frederikskaj&nbsp;2. Disse fremgår ved tydelig skiltning, og de bliver håndhævet af [COPARK](https://copark.dk/). Se nedenfor for billeder af arealet hvor der kan parkeres.
+Der er parkeringsregler på/ved Frederikskaj&nbsp;2. Disse fremgår ved tydelig skiltning, og de bliver håndhævet af [COPARK](https://copark.dk/).
+
+Bemærk at i modsætning til tidligere **omfatter disse parkeringsregler kun grundejerforeningens ejendom**, dvs. bebyggelsen og stikvejen langs denne. Antallet af parkeringspladser er meget begrænset, og der henvises i stedet til parkering [på Frederikskaj 6](#parkering-nu-og-i-fremtiden).
 
 ### COPARK-app
 
@@ -23,11 +25,7 @@ Desuden er der gratis parkering i to timer, såfremt parkeringsskiven er korrekt
 
 ### Handikap-pladser
 
-Frederikskaj&nbsp;2 har fem handikap-pladser, som er klart opmærket. Tre ud for opgang&nbsp;2R, og to ved indkørslen til parkeringspladsen. Her må der kun parkeres, hvis man har et gyldigt handikapskilt i forruden. Parkering på handikap-pladserne er derudover underlagt de samme parkeringsregler som resten af området.
-
-### Delebils-pladser
-
-Frederikskaj&nbsp;2 har endvidere to delebils-pladser ved indkørslen (se nedenfor). Disse pladser er reserveret til delebiler fra [Kinto Share](https://kinto.services/dk/kinto-share).
+Frederikskaj&nbsp;2 har tre handikap-pladser ud for opgang&nbsp;2R, som er klart opmærket. Her må der kun parkeres, hvis man har et gyldigt handikapskilt i forruden. Parkering på handikap-pladserne er derudover underlagt de samme parkeringsregler som resten af området.
 
 ## Ingen kørsel i bebyggelsen
 
@@ -37,28 +35,14 @@ Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man kont
 
 Det er dog aldrig tilladt at køre ind på eller over græs og bede, og en gartnerregning vil følge hvis dette sker.
 
-## Parkeringsareal
+## Parkering nu og i fremtiden
 
-Området hvor man som beboer på Frederikskaj&nbsp;2 kan parkere er markeret med grønt på billederne. De to reserverede delebilspladser er markeret med rødt.
+Så længe der bygges på grunden mellem vores bebyggelse og det store lyskryds har man som beboer mulighed for at leje en parkeringsplads på Frederikskaj&nbsp;6. Gæster osv. kan endvidere parkere på området mod betaling.
 
-![Parkeringsområdet på Frederikskaj 2 set i fugleperspektiv](parkering-1.jpg)
+For at leje en parkeringsplads bedes man henvende sig per mail eller telefon på henholdsvis info@plotpark.dk eller 53&nbsp;53&nbsp;25&nbsp;00 i tidsrummet 10:00&ndash;16:00. 
 
-![Parkeringsområdet på Frederikskaj 2 set direkte fra oven](parkering-2.jpg)
-
-## Fremtidig parkering
-
-Det nuværende areal hvor der kan parkeres bliver i midten af 2022 inddraget da området skal bebygges. MT&nbsp;Højgaard arbejder på alternative parkeringsmuligheder i området for beboerne på Frederikskaj&nbsp;2. Når byggeriet er færdigt, vil man som beboer (mod betaling) kunne få adgang til en parkeringsplads i det nye byggeri.
-
-## Delebilsordning
+Prisen for at leje en parkeringsplads er kr.&nbsp;700 per måned og lejen betales kvartalsvis forud. Der opkræves et engangsbeløb på kr.&nbsp;100 inkl. moms i oprettelse pr. kontrakt. Parkeringsaftalen kan opsiges skriftligt med et varsel på løbende måned plus én måned.
 
 import referat20220119 from './informationsmoede-om-parkering-2022-01-19.pdf'
-import Link from '@material-ui/core/Link'
 
-Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <Link href={referat20220119} color="secondary" target="_blank">referat</Link>). I den forbindelse tilbød de en delebilsordning som en del af den endelige parkeringsløsning. Ejerforeningens bestyrelse har sagt ja tak til at afprøve delebilsordningen i en prøveperiode.
-
-- De to parkeringspladser nærmest det store lyskryds er reserveret til delebiler fra Kinto Share. De er markeret med skilte på stedet og med rødt på billederne ovenfor.
-- For at kunne benytte delebilerne skal man oprette sig på [Kinto Shares hjemmeside](https://kinto.services/dk/kinto-share) eller i deres app:
-    - [App Store (iOS)](https://apps.apple.com/us/app/id1515779623)
-    - [Google Play (Android)](https://play.google.com/store/apps/details?id=se.kintomobility.carsharing)
-
-![Kinto Share velkomstbesked](kinto-share.jpg)
+Byggeriet forventes at være færdigt i 2025, og herefter vil man som beboer kunne leje en parkeringsplads i det nye byggeri. Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <Link href={referat20220119} color="secondary" target="_blank">referat</Link>).

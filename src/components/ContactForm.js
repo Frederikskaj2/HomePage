@@ -125,7 +125,7 @@ export default ({ type, buttonLabel, consent, children }) => {
                         type="submit"
                         variant="contained"
                         color="primary"
-                        disabled={!isConsenting || done}
+                        disabled={!isConsenting || busy || done}
                     >
                         {buttonLabel}
                     </Button>

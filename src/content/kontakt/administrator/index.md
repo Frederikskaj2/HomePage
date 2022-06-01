@@ -6,7 +6,7 @@ sequence: 2
 redirectFrom:
     - /kontakt-bestyrelsen/administrator
 ---
-Ejerforeningen administreres af [LEA Ejendemspartner](https://www.lea.dk/).
+Ejerforeningen administreres af [LEA Ejendomspartner](https://www.lea.dk/).
 
 ## Hvornår skal administratoren kontaktes?
 

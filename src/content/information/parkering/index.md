@@ -9,7 +9,7 @@ redirectFrom:
 
 Der er parkeringsregler på/ved Frederikskaj&nbsp;2. Disse fremgår ved tydelig skiltning, og de bliver håndhævet af [COPARK](https://copark.dk/).
 
-Bemærk at i modsætning til tidligere **omfatter disse parkeringsregler kun grundejerforeningens ejendom**, dvs. bebyggelsen og stikvejen langs denne. Antallet af parkeringspladser er meget begrænset, og der henvises i stedet til parkering [på Frederikskaj 6](#parkering-nu-og-i-fremtiden).
+Bemærk at i modsætning til tidligere **omfatter disse parkeringsregler kun grundejerforeningens ejendom**, dvs. bebyggelsen og stikvejen langs denne. Antallet af parkeringspladser er meget begrænset, og der henvises i stedet til parkering [på Frederikskaj&nbsp;6](#parkering-nu-og-i-fremtiden).
 
 ### COPARK-app
 
@@ -35,9 +35,11 @@ Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man kont
 
 Det er dog aldrig tilladt at køre ind på eller over græs og bede, og en gartnerregning vil følge hvis dette sker.
 
-## Parkering nu og i fremtiden
+## <LinkTarget name="parkering-nu-og-i-fremtiden">Parkering nu og i fremtiden</LinkTarget>
 
 Så længe der bygges på grunden mellem vores bebyggelse og det store lyskryds har man som beboer mulighed for at leje en parkeringsplads på Frederikskaj&nbsp;6. Gæster osv. kan endvidere parkere på området mod betaling.
+
+![Oversigtstegning af parkeringspladserne på Frederikskaj 6](parkering-frederikskaj-6.png)
 
 For at leje en parkeringsplads bedes man henvende sig per mail eller telefon på henholdsvis info@plotpark.dk eller 53&nbsp;53&nbsp;25&nbsp;00 i tidsrummet 10:00&ndash;16:00. 
 
@@ -45,4 +47,4 @@ Prisen for at leje en parkeringsplads er kr.&nbsp;700 per måned og lejen betale
 
 import referat20220119 from './informationsmoede-om-parkering-2022-01-19.pdf'
 
-Byggeriet forventes at være færdigt i 2025, og herefter vil man som beboer kunne leje en parkeringsplads i det nye byggeri. Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <Link href={referat20220119} color="secondary" target="_blank">referat</Link>).
+Byggeriet forventes at være færdigt i 2025, og herefter vil man som beboer kunne leje en parkeringsplads i det nye byggeri. Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <a href={referat20220119} target="_blank">referat</a>).

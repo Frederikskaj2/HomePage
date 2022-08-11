@@ -6,7 +6,7 @@ sequence: 1
 redirectFrom:
     - /kontakt-bestyrelsen/vicevaert
 ---
-[DEAS](https://deas.dk/) driver viceværtsfunktionen på Frederikskaj&nbsp;2, og det er primært John Juul Jørgensen som er tilknyttet som vicevært.
+[DEAS](https://deas.dk/) driver viceværtsfunktionen på Frederikskaj&nbsp;2.
 
 ## Hvornår skal viceværten kontaktes?
 

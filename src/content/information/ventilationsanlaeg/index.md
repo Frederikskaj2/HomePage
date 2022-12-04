@@ -32,7 +32,7 @@ Vedligehold af anlægget står alle ejere selv for, og er således ikke ejerfore
 
 For at se om anlægget har behov for filterskift, skal anlægget køre på max (tænd for emhætten), og kig derefter på betjeningspanelet, og se om den røde filterlampe lyser. Udover vedligehold af selve anlægget, skal fedtfiltrene i emhætten vaskes ved behov.
 
-Ejerforeningen har faciliteret en <a href="lygas-tilbud.pdf" target="_blank">aftale</a> med [GK Danmark](https://www.gk.dk/) (tidligere OK Energiteknik og før det Lygas), som kan sørge for service og filterskift. Man kan som lejlighedsejer melde sig til ved at ringe til 66&nbsp;14&nbsp;24&nbsp;12 eller skrive til [post@gk.dk](mailto:post@gk.dk) (mærke er _Vacumex NT260EC-ST-RT3_ og årstal er _2016_). Ud over service og filterskift tilbyder de også grov indregulering (mod betaling) som kan være nødvendigt hvis man selv har justeret på ventilerne og som et resultat heraf har dårlig ventilation.
+Ejerforeningen har faciliteret en <a href="lygas-tilbud.pdf" target="_blank">aftale</a> med [GK Danmark](https://www.gk.dk/) (tidligere OK Energiteknik og før det Lygas), som kan sørge for service og filterskift. Man kan som lejlighedsejer melde sig til ved at ringe til 66&nbsp;14&nbsp;24&nbsp;12 eller skrive til post@gk.dk (mærke er _Vacumex NT260EC-ST-RT3_ og årstal er _2016_). Ud over service og filterskift tilbyder de også grov indregulering (mod betaling) som kan være nødvendigt hvis man selv har justeret på ventilerne og som et resultat heraf har dårlig ventilation.
 
 Man kan også selv skifte sit filter. Filtre kan købes flere steder, fx hos [Filterhuset.dk](https://www.filterhuset.dk/vacumex/nt-260).
 

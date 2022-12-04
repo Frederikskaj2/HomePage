@@ -32,7 +32,7 @@ Som firma kan du tegne et sponsorat, hvorved dit firmanavn bliver eksponeret, sa
 
 ## Kontakt
 
-Kontakt for yderligere information og indmeldelse: [vinterbadelaugetfrederikskaj2@gmail.com](mailto:vinterbadelaugetfrederikskaj2@gmail.com).
+Kontakt for yderligere information og indmeldelse: vinterbadelaugetfrederikskaj2@gmail.com.
 
 Formand: Søren Peder Sørensen; 20&nbsp;27&nbsp;85&nbsp;16
 

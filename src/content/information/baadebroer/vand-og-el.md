@@ -18,7 +18,7 @@ For at få adgang til elektricitet skal man bruge et kort (a&nbsp;la Rejsekortet
 - Hvis I mister kortet, så koster det kr.&nbsp;50 at få et ny kort, samt tab af beløbet som evt. var på det kort som er bortkommet.
 - Der kan indsættes yderligere forbrugsbeløb på kortet imod betaling, enten kontant eller via MobilePay. Mindstebeløb er kr.&nbsp;50.
 - Prisen på el via standerne er kr.&nbsp;2,50 per&nbsp;kWh. hvilket er en smule over markedsprisen.
-- Udleveringen af forbrugskort og plastnøgler, samt optankning på forbrugskortene, styres af repræsentant for Vinterbadelauget, Søren Peder Sørensen, som kan kontaktes via mail: [spsfreelance@mail.dk](mailto:spsfreelance@mail.dk). Søren Peder afregner løbende elforbruget med grundejerforeningen.
+- Udleveringen af forbrugskort og plastnøgler, samt optankning på forbrugskortene, styres af repræsentant for Vinterbadelauget, Søren Peder Sørensen, som kan kontaktes via mail: spsfreelance@mail.dk. Søren Peder afregner løbende elforbruget med grundejerforeningen.
 
 ### Betjening af el-standerne
 

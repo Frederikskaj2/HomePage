@@ -24,7 +24,8 @@ For at sikre et ensartet udtryk har ejerforeningen en aftale med viceværten om,
 
 Viceværten skal primært kontaktes via DEAS Service Center:
 
-Telefon til Service Centeret: 70&nbsp;30&nbsp;23&nbsp;30 kl. 08.00&ndash;16.00 i hverdagene. Udenfor åbningstid stilles videre til BELFOR Skadesservice.
+- Telefon til Service Centeret: 70&nbsp;30&nbsp;23&nbsp;30 kl. 08.00&ndash;16.00 i hverdagene. Udenfor åbningstid stilles videre til BELFOR Skadesservice.
+- E-mail: fs@deas.dk.
 
 ### Viceværtens postkasse
 

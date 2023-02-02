@@ -9,12 +9,11 @@ Dokumenter vedrørende generalforsamlinger i Ejerforeningen Frederikskaj&nbsp;2.
 
 ## Generalforsamling 5. maj 2022
 
-import referat20220504 from './referat-2022-05-04.pdf'
 import aarsberetning20220504 from './aarsberetning-2022-05-04.pdf'
 import aarsrapport2021 from './aarsrapport-2021.pdf'
 import budget2022 from './budget-2022.pdf'
 
-- <Pdf pdf={referat20220504} text="Referat" />
+- Referat
 - <Pdf pdf={aarsberetning20220504} text="Årsberetning" />
 - <Pdf pdf={aarsrapport2021} text="Årsrapport" />
 - <Pdf pdf={budget2022} text="Budget" />
@@ -27,12 +26,11 @@ import referat20211028 from './referat-2021-10-28.pdf'
 
 ## Generalforsamling 22. juni 2021
 
-import referat20210622 from './referat-2021-06-22.pdf'
 import aarsberetning20210622 from './aarsberetning-2021-06-22.pdf'
 import aarsrapport2020 from './aarsrapport-2020.pdf'
 import budget2021 from './budget-2021.pdf'
 
-- <Pdf pdf={referat20210622} text="Referat" />
+- Referat
 - <Pdf pdf={aarsberetning20210622} text="Årsberetning" />
 - <Pdf pdf={aarsrapport2020} text="Årsrapport" />
 - <Pdf pdf={budget2021} text="Budget" />

@@ -35,13 +35,13 @@ Med venlig hilsen,
 
 Frederikskaj&nbsp;2 Kajaklaug
 
-Frederikskaj2kajaklaug@gmail.com
+[Frederikskaj2kajaklaug@gmail.com](mailto:Frederikskaj2kajaklaug@gmail.com)
 
 <FacebookLink href="https://www.facebook.com/groups/215149142497639/">Facebook-gruppe</FacebookLink>
 
 ---
 
-import Typography from '@material-ui/core/Typography'
+import Typography from '@mui/material/Typography'
 
 <Typography variant="body1" component="p" paragraph><LinkTarget name="english">Dear soon-to-be Kayak-Club Member</LinkTarget></Typography>
 
@@ -69,6 +69,6 @@ Best regards,
 
 Frederikskaj&nbsp;2 Kayak Club
 
-Frederikskaj2kajaklaug@gmail.com
+[Frederikskaj2kajaklaug@gmail.com](mailto:Frederikskaj2kajaklaug@gmail.com)
 
 <FacebookLink href="https://www.facebook.com/groups/215149142497639/">Facebook group</FacebookLink>

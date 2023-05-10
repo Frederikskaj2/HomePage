@@ -10,7 +10,7 @@ Medlemskabet er personligt og koster 500&nbsp;kr. for en sæson plus 250&nbsp;kr
 
 Som medlem må du tage en gæst med i saunaen. Du har også mulighed for at booke saunaen til din egen private event. Det koster 250&nbsp;kr. for 1½&nbsp;time.
 
-For at blive medlem skal du udfylde indmeldelsesblanket og sende den til vinterbadelaugetfrederikskaj2@gmail.com.
+For at blive medlem skal du udfylde indmeldelsesblanket og sende den til [vinterbadelaugetfrederikskaj2@gmail.com.](mailto:vinterbadelaugetfrederikskaj2@gmail.com.)
 
 import indmeldelsesblanketPdf from './indmeldelsesblanket.pdf'
 import indmeldelsesblanketPng from './indmeldelsesblanket.png'

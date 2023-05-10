@@ -8,9 +8,9 @@ redirectFrom:
 ---
 Bestyrelsen opretter dig som bruger i booking systemet efter indmeldelsesgebyr samt kontingent er betalt.
 
-- Log på <a href="https://www.supersaas.dk/schedule/Frederikskaj2kajaklaug/Kajakker_&_SUPs" target="_blank">SuperSaaS bookingsystemet</a>.
+- Log på [SuperSaaS bookingsystemet](https://www.supersaas.dk/schedule/Frederikskaj2kajaklaug/Kajakker_&_SUPs).
 
-- **E-mail**: Den e-mail du har oplyst til bestyrelsen ved tilmelding (alle skal sende en mail efter betaling er foretaget for at sikre vi kender din e-mail. Send til frederikskaj2kajaklaug@gmail.com).
+- **E-mail**: Den e-mail du har oplyst til bestyrelsen ved tilmelding (alle skal sende en mail efter betaling er foretaget for at sikre vi kender din e-mail. Send til [frederikskaj2kajaklaug@gmail.com](mailto:frederikskaj2kajaklaug@gmail.com)).
 
 - **Adgangskoden**: Default **Sydhavnen**, men den bør du ændre efter første login via **Dine indstillinger**.
 

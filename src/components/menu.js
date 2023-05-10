@@ -6,7 +6,7 @@ export const getMenu = (allMdx) => {
             text: menu.title,
             narrowText: menu.narrowTitle || menu.title,
             items: menu.groups.map((subMenu) => {
-                var edges = allMdx.edges.filter(
+                const edges = allMdx.edges.filter(
                     (edge) =>
                         edge.node.fields.folder === menu.folder && edge.node.frontmatter.menuGroup === subMenu.name
                 );

@@ -16,7 +16,7 @@ Alle henvendelser vedr. tryghedsgruppen og vagtordningen bør foretages pr. mail
  
 Akutte henvendelser skal rettes til politiet.
  
-tryghedsgruppenfrederikskaj2@gmail.com
+[tryghedsgruppenfrederikskaj2@gmail.com](mailto:tryghedsgruppenfrederikskaj2@gmail.com)
  
 Med venlig hilsen
  

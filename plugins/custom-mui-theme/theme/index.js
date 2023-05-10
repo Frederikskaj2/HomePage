@@ -1,4 +1,4 @@
-import { createMuiTheme, responsiveFontSizes } from '@material-ui/core/styles';
+import { createTheme, responsiveFontSizes } from '@mui/material/styles';
 import theme from './theme.json';
 
-export default responsiveFontSizes(createMuiTheme(theme));
+export default responsiveFontSizes(createTheme(theme));

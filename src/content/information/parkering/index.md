@@ -41,10 +41,10 @@ Så længe der bygges på grunden mellem vores bebyggelse og det store lyskryds 
 
 ![Oversigtstegning af parkeringspladserne på Frederikskaj 6](parkering-frederikskaj-6.png)
 
-For at leje en parkeringsplads bedes man henvende sig per mail eller telefon på henholdsvis info@plotpark.dk eller 53&nbsp;53&nbsp;25&nbsp;00 i tidsrummet 10:00&ndash;16:00. 
+For at leje en parkeringsplads bedes man henvende sig per mail eller telefon på henholdsvis [info@plotpark.dk](mailto:info@plotpark.dk) eller 53&nbsp;53&nbsp;25&nbsp;00 i tidsrummet 10:00&ndash;16:00. 
 
 Prisen for at leje en parkeringsplads er kr.&nbsp;700 per måned og lejen betales kvartalsvis forud. Der opkræves et engangsbeløb på kr.&nbsp;100 inkl. moms i oprettelse pr. kontrakt. Parkeringsaftalen kan opsiges skriftligt med et varsel på løbende måned plus én måned.
 
 import referat20220119 from './informationsmoede-om-parkering-2022-01-19.pdf'
 
-Byggeriet forventes at være færdigt i 2025, og herefter vil man som beboer kunne leje en parkeringsplads i det nye byggeri. Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <a href={referat20220119} target="_blank">referat</a>).
+Byggeriet forventes at være færdigt i 2025, og herefter vil man som beboer kunne leje en parkeringsplads i det nye byggeri. Ejerforeningen afholdte den 19.&nbsp;januar 2022 et informationsmøde hvor MT Højgaard orienterede om de fremtidige planer for parkering (se <Pdf pdf={referat20220119} text="referat" />).

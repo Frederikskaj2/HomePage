@@ -1,11 +1,11 @@
 import React from 'react';
-import IconButton from '@material-ui/core/IconButton';
-import Collapse from '@material-ui/core/Collapse';
-import CloseIcon from '@material-ui/icons/Close';
-import Alert from '@material-ui/lab/Alert';
-import AlertTitle from '@material-ui/lab/AlertTitle';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
+import Collapse from '@mui/material/Collapse';
+import IconButton from '@mui/material/IconButton';
+import CloseIcon from '@mui/icons-material/Close';
 
-export default ({ severity, title, message }) => {
+export default function Message({ severity, title, message }) {
     const [open, setOpen] = React.useState(true);
 
     return (
@@ -30,4 +30,4 @@ export default ({ severity, title, message }) => {
             </Alert>
         </Collapse>
     );
-};
+}

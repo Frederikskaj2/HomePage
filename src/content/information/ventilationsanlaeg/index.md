@@ -6,7 +6,7 @@ redirectFrom:
     - /ventilationssystemet
     - /lygas
 ---
-Til hver lejlighed på Frederikskaj&nbsp;2 er der et ventilationsanlæg som skal betjenes og vedligeholdes. Aggregatet er placeret under loftet i depotrummet og er af typen <a href="https://www.vacumex.dk/CustomerData/Files/Folders/16-nt250ec/305_vacumex-nt-260ec-slimline-ventilationsaggregat-08022017.pdf" target="_blank">Vacumex NT260EC-ST-RT3</a>.
+Til hver lejlighed på Frederikskaj&nbsp;2 er der et ventilationsanlæg som skal betjenes og vedligeholdes. Aggregatet er placeret under loftet i depotrummet og er af typen [Vacumex NT260EC-ST-RT3](https://www.vacumex.dk/CustomerData/Files/Folders/16-nt250ec/305_vacumex-nt-260ec-slimline-ventilationsaggregat-08022017.pdf).
 
 Moderne lejligheder er tætte for at de kan efterleve strenge energikrav. Derfor vil der uden ventilationsanlæg ikke ske nogen automatisk udluftning til forskel fra ældre bygninger, som populært sagt er utætte. Udluftningen er vigtig for at holde et godt indeklima og holde luftfugtigheden nede. Ved manglende udluftning kan der opstå fugt og skimmelsvamp. Fugtproblemer viser sig ofte først som dug i vinduerne.
 
@@ -32,7 +32,9 @@ Vedligehold af anlægget står alle ejere selv for, og er således ikke ejerfore
 
 For at se om anlægget har behov for filterskift, skal anlægget køre på max (tænd for emhætten), og kig derefter på betjeningspanelet, og se om den røde filterlampe lyser. Udover vedligehold af selve anlægget, skal fedtfiltrene i emhætten vaskes ved behov.
 
-Ejerforeningen har faciliteret en <a href="lygas-tilbud.pdf" target="_blank">aftale</a> med [GK Danmark](https://www.gk.dk/) (tidligere OK Energiteknik og før det Lygas), som kan sørge for service og filterskift. Man kan som lejlighedsejer melde sig til ved at ringe til 66&nbsp;14&nbsp;24&nbsp;12 eller skrive til post@gk.dk (mærke er _Vacumex NT260EC-ST-RT3_ og årstal er _2016_). Ud over service og filterskift tilbyder de også grov indregulering (mod betaling) som kan være nødvendigt hvis man selv har justeret på ventilerne og som et resultat heraf har dårlig ventilation.
+import lygastilbud from './lygas-tilbud.pdf'
+
+Ejerforeningen har faciliteret en <Pdf pdf={lygastilbud} text="aftale" /> med [GK Danmark](https://www.gk.dk/) (tidligere OK Energiteknik og før det Lygas), som kan sørge for service og filterskift. Man kan som lejlighedsejer melde sig til ved at ringe til 66&nbsp;14&nbsp;24&nbsp;12 eller skrive til [post@gk.dk](mailto:post@gk.dk) (mærke er _Vacumex NT260EC-ST-RT3_ og årstal er _2016_). Ud over service og filterskift tilbyder de også grov indregulering (mod betaling) som kan være nødvendigt hvis man selv har justeret på ventilerne og som et resultat heraf har dårlig ventilation.
 
 Man kan også selv skifte sit filter. Filtre kan købes flere steder, fx hos [Filterhuset.dk](https://www.filterhuset.dk/vacumex/nt-260).
 

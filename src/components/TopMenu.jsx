@@ -1,60 +1,23 @@
 import React from 'react';
 import { Link, graphql, useStaticQuery } from 'gatsby';
-import AppBar from '@material-ui/core/AppBar';
-import Drawer from '@material-ui/core/Drawer';
-import IconButton from '@material-ui/core/IconButton';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemText from '@material-ui/core/ListItemText';
-import Toolbar from '@material-ui/core/Toolbar';
-import { makeStyles } from '@material-ui/core/styles';
-import FacebookIcon from '@material-ui/icons/Facebook';
-import HomeIcon from '@material-ui/icons/Home';
-import MailIcon from '@material-ui/icons/Mail';
-import MenuIcon from '@material-ui/icons/Menu';
-import MegaMenu from './MegaMenu';
+import { useTheme } from '@mui/material/styles';
+import AppBar from '@mui/material/AppBar';
+import Drawer from '@mui/material/Drawer';
+import IconButton from '@mui/material/IconButton';
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import ListItemText from '@mui/material/ListItemText';
+import Toolbar from '@mui/material/Toolbar';
+import FacebookIcon from '@mui/icons-material/Facebook';
+import HomeIcon from '@mui/icons-material/Home';
+import MailIcon from '@mui/icons-material/Mail';
+import MenuIcon from '@mui/icons-material/Menu';
+import MegaMenu from './MegaMenu.jsx';
+import { menuType } from './MegaMenu.jsx';
 import { getMenu } from './menu.js';
 
-const useStyles = makeStyles((theme) => ({
-    menuIcon: {
-        [theme.breakpoints.up('md')]: {
-            display: 'none',
-        },
-    },
-    narrow: {
-        display: 'none',
-        [theme.breakpoints.only('md')]: {
-            display: 'block',
-        },
-    },
-    normal: {
-        [theme.breakpoints.down('md')]: {
-            display: 'none',
-        },
-    },
-    topMenuItem: {
-        color: theme.palette.primary.contrastText,
-        marginRight: theme.spacing(2),
-    },
-    topMenuIcon: {
-        color: theme.palette.primary.contrastText,
-    },
-    drawerMenuItems: {
-        display: 'flex',
-        flexDirection: 'column',
-    },
-    drawerMenuItem: {
-        color: theme.palette.text.primary,
-        marginLeft: theme.spacing(2),
-        marginRight: theme.spacing(2),
-    },
-    alignRight: {
-        marginLeft: 'auto',
-    },
-}));
-
-export default () => {
-    const classes = useStyles();
+export default function TopMenu() {
+    const theme = useTheme();
 
     const { allMdx } = useStaticQuery(
         graphql`
@@ -97,44 +60,64 @@ export default () => {
         <>
             <AppBar position="fixed">
                 <Toolbar>
-                    <IconButton edge="start" color="inherit" className={classes.menuIcon} onClick={toggleDrawer(true)} title="Menu">
+                    <IconButton edge="start" color="inherit" css={{
+                        [theme.breakpoints.up('md')]: {
+                            display: 'none',
+                        },
+                    }} onClick={toggleDrawer(true)} title="Menu">
                         <MenuIcon />
                     </IconButton>
                     <Drawer open={open} onClose={toggleDrawer(false)}>
-                        <List className={classes.drawerMenuItems}>
+                        <List css={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                        }}>
                             {mainMenu.map((menu, index) => (
-                                <MegaMenu className={classes.drawerMenuItems} menu={menu} key={index}>
+                                <MegaMenu menu={menu} type={menuType.drawer} key={index}>
                                     <ListItem>
-                                        <ListItemText className={classes.menuItem} primary={menu.text} />
+                                        <ListItemText css={{
+                                            color: theme.palette.text.primary,
+                                            marginLeft: theme.spacing(2),
+                                            marginRight: theme.spacing(2),
+                                        }} primary={menu.text} />
                                     </ListItem>
                                 </MegaMenu>
                             ))}
                         </List>
                     </Drawer>
-                    <nav className={classes.narrow}>
+                    <nav css={{
+                        display: 'none',
+                        [theme.breakpoints.only('md')]: {
+                            display: 'block',
+                        },
+                    }}>
                         {mainMenu.map((menu, index) => (
-                            <MegaMenu className={classes.topMenuItem} menu={menu} key={index}>
+                            <MegaMenu menu={menu} type={menuType.normal} key={index}>
                                 {menu.narrowText}
                             </MegaMenu>
                         ))}
                     </nav>
-                    <nav className={classes.normal}>
+                    <nav css={{
+                        [theme.breakpoints.down('lg')]: {
+                            display: 'none',
+                        },
+                    }}>
                         {mainMenu.map((menu, index) => (
-                            <MegaMenu className={classes.topMenuItem} menu={menu} key={index}>
+                            <MegaMenu menu={menu} type={menuType.normal} key={index}>
                                 {menu.text}
                             </MegaMenu>
                         ))}
                     </nav>
-                    <div className={classes.alignRight}>
+                    <div css={{ marginLeft: 'auto' }}>
                         <IconButton color="inherit" component={Link} to="/" title="Forside">
                             <HomeIcon />
                         </IconButton>
-                        <MegaMenu className={classes.topMenuIcon} menu={contactMenu}>
+                        <MegaMenu menu={contactMenu} type={menuType.right}>
                             <MailIcon />
                         </MegaMenu>
                         <IconButton
                             color="inherit"
-                            href="https://www.facebook.com/groups/frederikskaj2"
+                            href="https:/www.facebook.com/groups/frederikskaj2"
                             target="_blank"
                             rel="noopener"
                             title="Facebook-gruppen »Frederikskaj 2 - Beboere/Residents«"
@@ -146,4 +129,4 @@ export default () => {
             </AppBar>
         </>
     );
-};
+}

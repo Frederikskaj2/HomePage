@@ -1,23 +1,17 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import MenuItem from '@material-ui/core/MenuItem';
-import TextField from '@material-ui/core/TextField';
+import { css } from '@emotion/react';
+import { useTheme } from '@mui/material/styles';
+import MenuItem from '@mui/material/MenuItem';
+import TextField from '@mui/material/TextField';
 
-const useStyles = makeStyles((theme) => ({
-    row: {
-        display: 'flex',
-        marginLeft: -theme.spacing(1),
-        marginRight: -theme.spacing(1),
-    },
-    textField: {
-        marginTop: theme.spacing(2),
-        marginLeft: theme.spacing(1),
-        marginRight: theme.spacing(1),
-    },
-}));
+export default function ApartmentSelect ({ allApartments, nonResident }) {
+    const theme = useTheme();
 
-export default ({ allApartments, nonResident }) => {
-    const classes = useStyles();
+    const textFieldCss = css`
+    margin-top: ${theme.spacing(2)};
+    margin-left: ${theme.spacing(1)};
+    margin-right: ${theme.spacing(1)};
+    `;
 
     let apartments = {
         A: [
@@ -246,9 +240,13 @@ export default ({ allApartments, nonResident }) => {
     };
 
     return (
-        <div className={classes.row}>
+        <div css={{
+            display: 'flex',
+            marginLeft: '-' + theme.spacing(1),
+            marginRight: '-' + theme.spacing(1),
+        }}>
             <TextField
-                className={classes.textField}
+                css={textFieldCss}
                 label="Opgang"
                 select
                 required
@@ -271,7 +269,7 @@ export default ({ allApartments, nonResident }) => {
             </TextField>
             {letter === '' ? (
                 <TextField
-                    className={classes.textField}
+                    css={textFieldCss}
                     label="Lejlighed"
                     required
                     disabled
@@ -281,7 +279,7 @@ export default ({ allApartments, nonResident }) => {
                 ></TextField>
             ) : (
                 <TextField
-                    className={classes.textField}
+                    css={textFieldCss}
                     label="Lejlighed"
                     select
                     required
@@ -300,4 +298,4 @@ export default ({ allApartments, nonResident }) => {
             <input type="hidden" name="apartment" value={apartment} />
         </div>
     );
-};
+}

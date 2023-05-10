@@ -19,12 +19,12 @@ Ejerforeningen administreres af [LEA Ejendomspartner](https://www.lea.dk/).
 
 Gebyrer (per juli 2020):
 
-- Gebyr for besvarelse af ejerlejlighedsskema fra ejendomsmægler i forbindelse med salg: kr.&nbsp;4.250,-
-- Ejerskiftegebyr ved indflytning: kr.&nbsp;2.100,- (opkræves hos køber)
-- Rykkergebyr ved for sen betaling af fællesudgifter m.m.: Begynder ved kr.&nbsp;100,-
-- Gebyr for manuel genfremsendelse af opkrævninger og lign.: kr.&nbsp;135,-
+- Gebyr for besvarelse af ejerlejlighedsskema fra ejendomsmægler i forbindelse med salg: kr.&nbsp;4.250,–
+- Ejerskiftegebyr ved indflytning: kr.&nbsp;2.100,– (opkræves hos køber)
+- Rykkergebyr ved for sen betaling af fællesudgifter m.m.: Begynder ved kr.&nbsp;100,–
+- Gebyr for manuel genfremsendelse af opkrævninger og lign.: kr.&nbsp;135,–
 
-LEA opkræver ikke gebyr vedr. vand/varme, men forsyningsselskaberne opkræver et gebyr på omkring kr. 500-700 Dette gebyr pålægges sælger.
+LEA opkræver ikke gebyr vedr. vand/varme, men forsyningsselskaberne opkræver et gebyr på omkring kr. 500–700 Dette gebyr pålægges sælger.
 
 ## Skriv til administrator
 

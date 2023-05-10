@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-export default ({ src, title, ...props }) => {
+export default function RefreshingIFrame({ src, title, ...props }) {
     useEffect(() => {
         require('../../static/refreshing-iframe.js');
     }, []);
@@ -10,4 +10,4 @@ export default ({ src, title, ...props }) => {
             <iframe id="refreshing-iframe" title={title} src={src} loading="lazy" {...props}></iframe>
         </div>
     );
-};
+}

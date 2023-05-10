@@ -13,7 +13,7 @@ De bestilte sikkerhedsdøre blev installeret i marts 2018. Det er dog stadig mul
 
 <Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="Tilbuddet fra Dansk Dørsikring fra 2017" />
 
-Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på info@danskdorsikring.dk, med ejerforeningen@frederikskaj2.dk i kopi.
+Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på [info@danskdorsikring.dk](mailto:info@danskdorsikring.dk), med ejerforeningen@frederikskaj2.dk i kopi.
 
 Det er kun tilladt at installere den [Daloc&nbsp;S43 sikkerhedsdør](http://www.dorkatalog.daloc.dk/sikkerhedsdore/S43/) (i&nbsp;hvid) som Dansk Dørsikring tilbyder. Dette er for at holde stilen og udtrykket.
 

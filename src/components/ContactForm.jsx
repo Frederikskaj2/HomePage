@@ -1,43 +1,49 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
-import Checkbox from '@material-ui/core/Checkbox';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import FormGroup from '@material-ui/core/FormGroup';
-import LinearProgress from '@material-ui/core/LinearProgress';
-import TextField from '@material-ui/core/TextField';
-import Message from './Message';
+import { css } from '@emotion/react';
+import { useTheme } from '@mui/material/styles';
+import Button from '@mui/material/Button';
+import Checkbox from '@mui/material/Checkbox';
+import FormControlLabel from '@mui/material/FormControlLabel';
+import FormGroup from '@mui/material/FormGroup';
+import LinearProgress from '@mui/material/LinearProgress';
+import TextField from '@mui/material/TextField';
+import SendIcon from '@mui/icons-material/Send';
+import Message from './Message.jsx';
 import { sendEmail, sendEmailResult } from './api';
 
-const useStyles = makeStyles((theme) => ({
-    fieldset: {
-        margin: 0,
-        padding: 0,
-        border: 'none',
-    },
-    disabled: {
-        pointerEvents: 'none',
-    },
-    consent: {
-        marginTop: theme.spacing(2),
-    },
-    button: {
-        marginTop: theme.spacing(2),
-        paddingTop: theme.spacing(2),
-        paddingBottom: theme.spacing(2),
-        paddingLeft: theme.spacing(4),
-        paddingRight: theme.spacing(4),
-    },
-    address: {
-        height: 0,
-        textIndent: '100%',
-        whiteSpace: 'nowrap',
-        overflow: 'hidden',
-    },
-}));
+export default function ContactForm({ type, buttonLabel, consent, children }) {
+    const theme = useTheme();
 
-export default ({ type, buttonLabel, consent, children }) => {
-    const classes = useStyles();
+    const fieldsetCss = css`
+        margin: 0;
+        padding: 0;
+        border: none;
+        `;
+
+    const disabledCss = css`
+        pointer-events: none;
+        `;
+
+    const noCss = css``;
+
+    const consentCss = css`
+        margin-top: ${theme.spacing(2)};
+      `;
+
+    const buttonCss = css`
+        margin-top: ${theme.spacing(2)};
+        padding-top: ${theme.spacing(2)};
+        padding-bottom: ${theme.spacing(2)};
+        padding-left: ${theme.spacing(4)};
+        padding-right: ${theme.spacing(4)};
+        `;
+
+    const addressCss = css`
+        height: 0;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+       `;
 
     // The invisible address input is a spam honeypot. A spammer is very
     // likely to provide a value for this field but the message will not be
@@ -45,7 +51,7 @@ export default ({ type, buttonLabel, consent, children }) => {
     // legitimate user gets their address entered into the field by the browser
     // a single random string is used as the value for the autocomplete
     // attribute.
-    const randomAutoComplete = Math.random().toString(36).substr(2);
+    const randomAutoComplete = Math.random().toString(36).substring(2);
 
     const [isConsenting, setIsConsenting] = React.useState(!consent);
     const [result, setResult] = React.useState(undefined);
@@ -105,13 +111,13 @@ export default ({ type, buttonLabel, consent, children }) => {
             {busy && <LinearProgress />}
             {result && <Message severity={getSeverity(result)} title={getTitle(result)} message={getMessage(result)} />}
             <form onSubmit={submit}>
-                <fieldset className={`${classes.fieldset} ${done ? classes.disabled : ''}`} disabled={done}>
+                <fieldset css={[fieldsetCss, done ? disabledCss : noCss]} disabled={done}>
                     {children}
-                    <div className={classes.address}>
+                    <div css={addressCss}>
                         <TextField name="address" autoComplete={randomAutoComplete} />
                     </div>
                     {consent && (
-                        <FormGroup row className={classes.consent}>
+                        <FormGroup row css={consentCss}>
                             <FormControlLabel
                                 control={
                                     <Checkbox checked={isConsenting} onChange={handleIsConsenting} color="primary" />
@@ -121,10 +127,11 @@ export default ({ type, buttonLabel, consent, children }) => {
                         </FormGroup>
                     )}
                     <Button
-                        className={classes.button}
+                        css={buttonCss}
                         type="submit"
                         variant="contained"
                         color="primary"
+                        endIcon={<SendIcon />}
                         disabled={!isConsenting || busy || done}
                     >
                         {buttonLabel}
@@ -133,4 +140,4 @@ export default ({ type, buttonLabel, consent, children }) => {
             </form>
         </>
     );
-};
+}

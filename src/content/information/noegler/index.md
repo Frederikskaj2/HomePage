@@ -6,7 +6,7 @@ redirectFrom:
 ---
 ## »Postnøgler«
 
-Der har været forespørgsler fra beboere omkring udlevering af »postnøgler« (som giver adgang til opgangene) til madtjenester, som Årstiderne og andre leverandører af måltidskasser. Bestyrelsen godkender ikke udlevering af sådanne postnøgler.
+Opgangene på Frederikskaj&nbsp;2 er tilsluttet [Bekey](https://www.bekey.dk/beboer/) hvilket betyder at leverandører mv. som er tilsuttet denne tjeneste kan levere fx måltidskasser i opgangene. Udlevering af fysiske »postnøgler« er ikke noget bestyrelsen godkender.
 
 ## Hoveddørs-/gadedørsnøgler
 

@@ -4,40 +4,41 @@ menuGroup: lejlighederne
 redirectFrom:
   - /kontakt-bestyrelsen/administrator/affaldssortering
 ---
-Affald som ikke håndteres korrekt kan føre til ekstra udgifter, ikke bare for den beboer som har smidt sit affald, men for os alle sammen, så vær venlig at overholde nedenstående.
+## Midlertidig skraldeløsning
+
+Det er på sigt meningen at Frederikskaj&nbsp;2 skal have en skraldeløsning på nabogrunden hvor der i øjeblikket bygges. Indtil dette byggeri er færdigt må vi nøjes med en midlertidig skraldeløsning hvor containerne er opstillet på stikvejen. Byggeriet på nabogrunden forventes færdigt i 2025 hvor vi ud over et skralderum også vil få mulighed for parkering af cykler og biler.
 
 ## Affaldssortering
 
-![Affaldsskur](affaldsskur.jpg)
+Affald som ikke håndteres korrekt kan føre til ekstra udgifter, ikke bare for den beboer som har smidt sit affald, men for os alle sammen, så vær venlig at overholde nedenstående. Containerne må ikke overfyldes.
 
-Affald skal sorteres i syv forskellige slags. Du finder de forskellige containere i affaldsskuret:
+Affald skal sorteres i de dertil indrettede containere:
 
-- [Pap](https://www.kk.dk/artikel/sortering-af-pap)
-- [Plast](https://www.kk.dk/artikel/saadan-sorterer-du-dit-plastaffald)
-- [Papir](https://www.kk.dk/artikel/sortering-af-papir)
-- [Metal](https://www.kk.dk/artikel/sortering-af-metal)
-- [Elektronik](https://www.kk.dk/artikel/sortering-af-elektronik)
-- [Bioaffald](https://www.kk.dk/artikel/saadan-sorterer-du-dit-bioaffald)
-- [Glas](https://www.kk.dk/artikel/sortering-af-glas)
+- [Pap](https://affald.kk.dk/affaldsfraktion/pap)
+- [Plast](https://affald.kk.dk/affaldsfraktion/plast) inklusiv [mad- og drikkekartoner](https://affald.kk.dk/affaldsfraktion/mad-og-drikkekartoner)
+- [Papir](https://affald.kk.dk/affaldsfraktion/papir)
+- [Madaffald](https://affald.kk.dk/affaldsfraktion/madaffald)
+- [Metal](https://affald.kk.dk/affaldsfraktion/metal)
+- [Elektronik](https://affald.kk.dk/affaldsfraktion/elektronik)
+- [Batterier](https://affald.kk.dk/affaldsfraktion/batterier)
+- [Glas](https://affald.kk.dk/affaldsfraktion/glas)
 
-Bemærk at glascontaineren står udenfor affaldsskuret ved indkørselsvejen til bebyggelsen.
+For flere oplysninger om affaldssortering henvises til Københavns kommunes side [Viden om affald](https://affald.kk.dk/viden-om-affald).
 
-Containerne i affaldsskuret må ikke overfyldes.
-
-Specielle affaldsposer til bioaffald kan [bestilles gratis hos Københavns Kommune](https://www.kk.dk/bioposer). De kan også afhentes på [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/) og kommunale biblioteker.
-
-Hvis du er i tvivl om hvordan et specifikt stykke affald skal sorteres kan du søge i [Affalds-ABC](https://nemaffaldsservice.kk.dk/AffaldsABC).
+Specielle affaldsposer til bioaffald kan [bestilles gratis hos Københavns Kommune](https://affald.kk.dk/bioposer-og-koekkenkurv). De kan også afhentes på [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/) og kommunale biblioteker.
 
 ## Restaffald
 
-Det affald som ikke kan sorteres er [restaffald (dagrenovation)](https://www.kk.dk/artikel/saadan-sorterer-du-dit-restaffald-dagrenovation) fx:
+Det affald som ikke kan sorteres er [restaffald (dagrenovation)](https://affald.kk.dk/affaldsfraktion/restaffald) fx:
 
-- Mælkekartoner
-- Pizzabakker
+- Støvsugerposer
+- Kattegrus
+- Cigaretskodder
 - Bleer
 - Hygiejneaffald
 - Flamingo
-- Snasket papir eller pap
+- Snasket/vådt papir eller pap, fx pizzabakke
+- Plastemballage med metalfolie, fx visse typer chipsposer, kaffeposer, chokoladeindpakning mv.
 
 Al affald som smides i affaldsskakten skal være forsvarligt emballeret i en plastpose på maksimalt 20 liter som er lukket med snøreluk.
 

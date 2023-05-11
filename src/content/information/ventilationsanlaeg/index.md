@@ -18,7 +18,7 @@ Anlægget kan justeres på betjeningspanelets drejeknap. Dog er denne drejeknap 
 
 ![Ventilationsanlæggets betjeningspanel](ventilationsanlaeg-1.jpg)
 
-Har man valgt at behold drejeknappen skal den som standard pege lige op. Her er anlægget i sin basisindstilling som er den indstilling der er blevet opmålt til at opfylde lejighedens krav til luftskifte. Hvis man for eksempel synes at anlægget larmer, kan man skrue ned for drejeknappen (med mindre luftskifte som følge). Her skal man være opmærksom på at det ikke må skrues ned under 4 på drejeknappen, da der er en motor i aggregatet der ikke får den fornødne luft, og man risikerer at denne overopheder og går i stykker.
+Har man valgt at beholde drejeknappen skal den som standard pege lige op. Her er anlægget i sin basisindstilling som er den indstilling der er blevet opmålt til at opfylde lejighedens krav til luftskifte. Hvis man for eksempel synes at anlægget larmer, kan man skrue ned for drejeknappen (med mindre luftskifte som følge). Her skal man være opmærksom på at det ikke må skrues ned under 4 på drejeknappen, da der er en motor i aggregatet der ikke får den fornødne luft, og man risikerer at denne overopheder og går i stykker.
 
 ![Advarselsskilt under ventilationsanlæggets betjeningspanel](ventilationsanlaeg-2.jpg)
 

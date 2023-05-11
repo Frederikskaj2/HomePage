@@ -7,14 +7,14 @@
       header: Lejlighederne
       name: lejlighederne
     -
-      header: Området
-      name: omraadet
+      header: Vedligehold
+      name: vedligehold
     -
       header: Bådebroer
       name: baadebroer
     -
-      header: Vedligehold
-      name: vedligehold
+      header: Området
+      name: omraadet
 -
   title: Fællesskab
   folder: faellesskab

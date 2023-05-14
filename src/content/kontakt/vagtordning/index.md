@@ -2,7 +2,7 @@
 title: Kontakt Tryghedsgruppen
 menuTitle: Vagtordning
 menuGroup: beboer
-sequence: 2
+sequence: 3
 ---
 Tryghedsgruppen som har kontakt til vagtselskabet som patruljerer Frederikskaj&nbsp;2 kan kontaktes på mail [tryghedsgruppenfrederikskaj2@gmail.com.](mailto:tryghedsgruppenfrederikskaj2@gmail.com.)
 

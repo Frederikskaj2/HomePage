@@ -21,6 +21,8 @@
         "@mdx-js/react": "^2.3.0",
         "@mui/icons-material": "^5.11.16",
         "@mui/material": "^5.11.16",
+        "@mui/x-date-pickers": "^6.4.0",
+        "date-fns": "^2.30.0",
         "fontsource-public-sans": "^4.0.0",
         "gatsby": "^5.8.1",
         "gatsby-plugin-client-side-redirect": "^1.1.0",

@@ -11,12 +11,14 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 import ApartmentSelect from './ApartmentSelect.jsx';
+import CheckboxInput from './CheckboxInput.jsx';
 import ContactForm from './ContactForm.jsx';
+import DateInput from './DateInput.jsx';
 import FacebookLink from './FacebookLink.jsx';
 import LinkTarget from './LinkTarget.jsx';
 import Pdf from './Pdf.jsx';
-import RefreshingIFrame from './RefreshingIFrame.jsx';
 import TextInput from './TextInput.jsx';
+import TwoFields from './TwoFields.jsx';
 import Video from './Video.jsx';
 
 export default function Markdown({ children }) {
@@ -67,12 +69,14 @@ export default function Markdown({ children }) {
         a: a,
         hr: hr,
         ApartmentSelect: ApartmentSelect,
+        CheckboxInput: CheckboxInput,
         ContactForm: ContactForm,
+        DateInput: DateInput,
         FacebookLink: FacebookLink,
         LinkTarget: LinkTarget,
         Pdf: Pdf,
-        RefreshingIFrame: RefreshingIFrame,
         TextInput: TextInput,
+        TwoFields: TwoFields,
         Video: Video,
     };
 

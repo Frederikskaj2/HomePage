@@ -15,7 +15,7 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
     const theme = useTheme();
 
     const fieldsetCss = css`
-        margin: 0;
+        margin: 0 0 ${theme.spacing(4)};
         padding: 0;
         border: none;
         `;

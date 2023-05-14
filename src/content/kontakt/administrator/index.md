@@ -29,9 +29,9 @@ LEA opkræver ikke gebyr vedr. vand/varme, men forsyningsselskaberne opkræver e
 ## Skriv til administrator
 
 <ContactForm type='administrator' buttonLabel="Send besked">
-    <TextInput label="Fulde navn" name="name" required inputProps={{maxlength: 100}} />
+    <TextInput label="Fulde navn" name="name" required inputProps={{maxLength: 100}} />
     <ApartmentSelect allApartments={false} nonResident={true} />
-    <TextInput label="E-mail" name="email" type="email" required inputProps={{maxlength: 100}} />
-    <TextInput label="Emne" name="subject" required inputProps={{maxlength: 200}} />
-    <TextInput label="Besked" name="message" required multiline inputProps={{maxlength: 5000}} />
+    <TextInput label="E-mail" name="email" type="email" required inputProps={{maxLength: 100}} />
+    <TextInput label="Emne" name="subject" required inputProps={{maxLength: 200}} />
+    <TextInput label="Besked" name="message" required multiline inputProps={{maxLength: 5000}} />
 </ContactForm>

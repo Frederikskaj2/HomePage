@@ -100,7 +100,7 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
 
     const getMessage = (result) => {
         if (result === sendEmailResult.accepted)
-            return 'Du hører fra os når vi har haft lejlighed til at behandle din henvendelse.';
+            return 'Vi behandler din henvendelse så snart det er muligt.';
         if (result === sendEmailResult.notAccepted)
             return 'Din besked ligner spam. Skriv en mail til ejerforeningen@frederikskaj2.dk hvis vi tager fejl.';
         return 'Der er sket en teknisk fejl, og din besked blev ikke sendt.';

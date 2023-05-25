@@ -11,13 +11,14 @@ Bestyrelsen består af:
 - Stefan Vrang (formand)
 - Jesper Jensen
 - Martin Liversage
+- Natalia Anna Czyzynski
 - Robert Jørgensen
-- Thomas Cato
 
 Suppleanter:
 
-- Emil Bech Madsen
-- Line Rasmussen
+- Dar Nerst
+- Finn Frigast Larsen
+- Thomas Cato
 - Tine Christiansen
 
 ## Skriv til bestyrelsen

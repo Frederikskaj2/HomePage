@@ -18,17 +18,17 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
         margin: 0 0 ${theme.spacing(4)};
         padding: 0;
         border: none;
-        `;
+    `;
 
     const disabledCss = css`
         pointer-events: none;
-        `;
+    `;
 
     const noCss = css``;
 
     const consentCss = css`
         margin-top: ${theme.spacing(2)};
-      `;
+    `;
 
     const buttonCss = css`
         margin-top: ${theme.spacing(2)};
@@ -36,14 +36,14 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
         padding-bottom: ${theme.spacing(2)};
         padding-left: ${theme.spacing(4)};
         padding-right: ${theme.spacing(4)};
-        `;
+    `;
 
     const addressCss = css`
         height: 0;
         text-indent: 100%;
         white-space: nowrap;
         overflow: hidden;
-       `;
+    `;
 
     // The invisible address input is a spam honeypot. A spammer is very
     // likely to provide a value for this field but the message will not be
@@ -67,6 +67,8 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
         const properties = {};
         for (let i = 0; i < inputs.length; i += 1) {
             const input = inputs[i];
+            if (input.type === 'checkbox' && !input.checked)
+                continue;
             properties[input.name] = input.value;
         }
         return properties;
@@ -99,8 +101,7 @@ export default function ContactForm({ type, buttonLabel, consent, children }) {
     };
 
     const getMessage = (result) => {
-        if (result === sendEmailResult.accepted)
-            return 'Vi behandler din henvendelse så snart det er muligt.';
+        if (result === sendEmailResult.accepted) return 'Vi behandler din henvendelse så snart det er muligt.';
         if (result === sendEmailResult.notAccepted)
             return 'Din besked ligner spam. Skriv en mail til ejerforeningen@frederikskaj2.dk hvis vi tager fejl.';
         return 'Der er sket en teknisk fejl, og din besked blev ikke sendt.';

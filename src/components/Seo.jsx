@@ -20,8 +20,9 @@ export default function Seo({ title, description, children }) {
             <link rel="icon" href="/favicon.ico" />
             <html lang="da" />
             {children}
-        </>);
-};
+        </>
+    );
+}
 
 const query = graphql`
     query SEO {

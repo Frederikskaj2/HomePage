@@ -60,48 +60,63 @@ export default function TopMenu() {
         <>
             <AppBar position="fixed">
                 <Toolbar>
-                    <IconButton edge="start" color="inherit" css={{
-                        [theme.breakpoints.up('md')]: {
-                            display: 'none',
-                        },
-                    }} onClick={toggleDrawer(true)} title="Menu">
+                    <IconButton
+                        edge="start"
+                        color="inherit"
+                        css={{
+                            [theme.breakpoints.up('md')]: {
+                                display: 'none',
+                            },
+                        }}
+                        onClick={toggleDrawer(true)}
+                        title="Menu"
+                    >
                         <MenuIcon />
                     </IconButton>
                     <Drawer open={open} onClose={toggleDrawer(false)}>
-                        <List css={{
-                            display: 'flex',
-                            flexDirection: 'column',
-                        }}>
+                        <List
+                            css={{
+                                display: 'flex',
+                                flexDirection: 'column',
+                            }}
+                        >
                             {mainMenu.map((menu, index) => (
                                 <MegaMenu menu={menu} type={menuType.drawer} key={index}>
                                     <ListItem>
-                                        <ListItemText css={{
-                                            color: theme.palette.text.primary,
-                                            marginLeft: theme.spacing(2),
-                                            marginRight: theme.spacing(2),
-                                        }} primary={menu.text} />
+                                        <ListItemText
+                                            css={{
+                                                color: theme.palette.text.primary,
+                                                marginLeft: theme.spacing(2),
+                                                marginRight: theme.spacing(2),
+                                            }}
+                                            primary={menu.text}
+                                        />
                                     </ListItem>
                                 </MegaMenu>
                             ))}
                         </List>
                     </Drawer>
-                    <nav css={{
-                        display: 'none',
-                        [theme.breakpoints.only('md')]: {
-                            display: 'block',
-                        },
-                    }}>
+                    <nav
+                        css={{
+                            display: 'none',
+                            [theme.breakpoints.only('md')]: {
+                                display: 'block',
+                            },
+                        }}
+                    >
                         {mainMenu.map((menu, index) => (
                             <MegaMenu menu={menu} type={menuType.normal} key={index}>
                                 {menu.narrowText}
                             </MegaMenu>
                         ))}
                     </nav>
-                    <nav css={{
-                        [theme.breakpoints.down('lg')]: {
-                            display: 'none',
-                        },
-                    }}>
+                    <nav
+                        css={{
+                            [theme.breakpoints.down('lg')]: {
+                                display: 'none',
+                            },
+                        }}
+                    >
                         {mainMenu.map((menu, index) => (
                             <MegaMenu menu={menu} type={menuType.normal} key={index}>
                                 {menu.text}

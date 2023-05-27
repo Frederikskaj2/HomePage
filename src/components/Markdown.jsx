@@ -14,6 +14,7 @@ import ApartmentSelect from './ApartmentSelect.jsx';
 import CheckboxInput from './CheckboxInput.jsx';
 import ContactForm from './ContactForm.jsx';
 import DateInput from './DateInput.jsx';
+import DoubleTextFields from './DoubleTextFields.jsx';
 import FacebookLink from './FacebookLink.jsx';
 import LinkTarget from './LinkTarget.jsx';
 import Pdf from './Pdf.jsx';
@@ -37,20 +38,35 @@ export default function Markdown({ children }) {
     );
     const thead = (props) => <TableHead {...props} />;
     const tbody = (props) => <TableBody {...props} />;
-    const tr = (props) => <TableRow css={{
-        '&:nth-of-type(odd)': {
-            backgroundColor: theme.palette.action.hover,
-        }
-    }} {...props} />;
-    const th = (props) => <TableCell css={{
-        fontWeight: 700,
-        backgroundColor: theme.palette.action.selected,
-    }} component="th" {...props} />;
+    const tr = (props) => (
+        <TableRow
+            css={{
+                '&:nth-of-type(odd)': {
+                    backgroundColor: theme.palette.action.hover,
+                },
+            }}
+            {...props}
+        />
+    );
+    const th = (props) => (
+        <TableCell
+            css={{
+                fontWeight: 700,
+                backgroundColor: theme.palette.action.selected,
+            }}
+            component="th"
+            {...props}
+        />
+    );
     const td = (props) => <TableCell component="td" {...props} />;
-    const hr = (props) => <Divider css={{
-        marginTop: '2rem',
-        marginBottom: '2rem',
-    }} />;
+    const hr = (props) => (
+        <Divider
+            css={{
+                marginTop: '2rem',
+                marginBottom: '2rem',
+            }}
+        />
+    );
     const a = (props) => <Link {...props} color="secondary" underline="hover" />;
 
     const components = {
@@ -72,6 +88,7 @@ export default function Markdown({ children }) {
         CheckboxInput: CheckboxInput,
         ContactForm: ContactForm,
         DateInput: DateInput,
+        DoubleTextFields: DoubleTextFields,
         FacebookLink: FacebookLink,
         LinkTarget: LinkTarget,
         Pdf: Pdf,
@@ -80,9 +97,5 @@ export default function Markdown({ children }) {
         Video: Video,
     };
 
-    return (
-        <MDXProvider components={components}>
-            {children}
-        </MDXProvider>
-    );
+    return <MDXProvider components={components}>{children}</MDXProvider>;
 }

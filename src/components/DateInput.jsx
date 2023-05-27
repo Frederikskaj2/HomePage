@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTheme } from '@mui/material/styles';
-import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns'
+import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import da from 'date-fns/locale/da';
@@ -16,18 +16,20 @@ export default function DateInput({ minRelativeDate, name, ...props }) {
         <LocalizationProvider dateAdapter={AdapterDateFns} adapterLocale={da}>
             <DatePicker
                 css={{ marginTop: theme.spacing(2), width: '100%' }}
-                minDate={minDate} slotProps={{ textField: { required: true, name: name } }}
+                minDate={minDate}
+                slotProps={{ textField: { required: true, name: name } }}
                 localeText={{
                     previousMonth: 'Forrige måned',
                     nextMonth: 'Næste måned',
-                    cancelButtonLabel: "Annuller",
-                    okButtonLabel: "OK",
-                    datePickerToolbarTitle: "Vælg dato",
+                    cancelButtonLabel: 'Annuller',
+                    okButtonLabel: 'OK',
+                    datePickerToolbarTitle: 'Vælg dato',
                     fieldYearPlaceholder: (params) => 'Å'.repeat(params.digitAmount),
                     fieldMonthPlaceholder: (params) => (params.contentType === 'letter' ? 'MMMM' : 'MM'),
                     fieldDayPlaceholder: () => 'DD',
                 }}
-                {...props} />
+                {...props}
+            />
         </LocalizationProvider>
     );
 }

@@ -7,7 +7,7 @@ export default function CheckboxInput({ label, name }) {
     const theme = useTheme();
     return (
         <FormControlLabel
-            css={{ marginTop: theme.spacing(3) }} 
+            css={{ marginTop: theme.spacing(2) }}
             control={<Checkbox color="primary" name={name} />}
             label={label}
         />

@@ -32,11 +32,11 @@ export default function MegaMenu({ menu, type, children }) {
         margin: 0;
         [${theme.breakpoints.down('sm')}]: {
             width: ${theme.breakpoints.values.sm};
-        },
+        }
         [${theme.breakpoints.up('md')}]: {
             width: ${theme.breakpoints.values.md};
-        };
-        `;
+        }
+    `;
 
     const menuHeaderCss = css`
         margin-top: ${theme.spacing(-1)};
@@ -45,28 +45,28 @@ export default function MegaMenu({ menu, type, children }) {
         text-transform: uppercase;
         background: ${theme.palette.secondary.dark};
         color: ${theme.palette.secondary.contrastText};
-        `;
+    `;
 
     const normalMenuButtonCss = css`
         color: ${theme.palette.primary.contrastText};
         margin-right: ${theme.spacing(2)};
-        `;
+    `;
 
     const rightMenuButtonCss = css`
         color: ${theme.palette.primary.contrastText};
-        `;
+    `;
 
     const drawerMenuButtonCss = css`
         display: flex;
         flex-direction: column;
-        `;
+    `;
 
     const menuButtonCss =
         type === menuType.drawer
             ? drawerMenuButtonCss
             : type === menuType.right
-                ? rightMenuButtonCss
-                : normalMenuButtonCss;
+            ? rightMenuButtonCss
+            : normalMenuButtonCss;
 
     const [anchorEl, setAnchorEl] = React.useState(undefined);
 

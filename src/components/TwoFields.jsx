@@ -12,16 +12,18 @@ export default function TwoFields({ field1, field2 }) {
     `;
 
     return (
-        <div css={{
-            display: 'flex',
-            flexDirection: 'column',
-            '@media (min-width:600px)': {
-                flexDirection: 'row',
-                alignItems: 'center',
-            },
-            marginLeft: '-' + theme.spacing(1),
-            marginRight: '-' + theme.spacing(1),
-        }}>
+        <div
+            css={{
+                display: 'flex',
+                flexDirection: 'column',
+                '@media (min-width:600px)': {
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                },
+                marginLeft: '-' + theme.spacing(1),
+                marginRight: '-' + theme.spacing(1),
+            }}
+        >
             <div css={fieldCss}>{field1}</div>
             <div css={fieldCss}>{field2}</div>
         </div>

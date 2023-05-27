@@ -4,13 +4,13 @@ import { useTheme } from '@mui/material/styles';
 import MenuItem from '@mui/material/MenuItem';
 import TextField from '@mui/material/TextField';
 
-export default function ApartmentSelect ({ allApartments, nonResident }) {
+export default function ApartmentSelect({ allApartments, nonResident }) {
     const theme = useTheme();
 
     const textFieldCss = css`
-    margin-top: ${theme.spacing(2)};
-    margin-left: ${theme.spacing(1)};
-    margin-right: ${theme.spacing(1)};
+        margin-top: ${theme.spacing(2)};
+        margin-left: ${theme.spacing(1)};
+        margin-right: ${theme.spacing(1)};
     `;
 
     let apartments = {
@@ -240,11 +240,13 @@ export default function ApartmentSelect ({ allApartments, nonResident }) {
     };
 
     return (
-        <div css={{
-            display: 'flex',
-            marginLeft: '-' + theme.spacing(1),
-            marginRight: '-' + theme.spacing(1),
-        }}>
+        <div
+            css={{
+                display: 'flex',
+                marginLeft: '-' + theme.spacing(1),
+                marginRight: '-' + theme.spacing(1),
+            }}
+        >
             <TextField
                 css={textFieldCss}
                 label="Opgang"

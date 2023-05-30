@@ -14,7 +14,6 @@ import ApartmentSelect from './ApartmentSelect.jsx';
 import CheckboxInput from './CheckboxInput.jsx';
 import ContactForm from './ContactForm.jsx';
 import DateInput from './DateInput.jsx';
-import DoubleTextFields from './DoubleTextFields.jsx';
 import FacebookLink from './FacebookLink.jsx';
 import LinkTarget from './LinkTarget.jsx';
 import Pdf from './Pdf.jsx';
@@ -88,7 +87,6 @@ export default function Markdown({ children }) {
         CheckboxInput: CheckboxInput,
         ContactForm: ContactForm,
         DateInput: DateInput,
-        DoubleTextFields: DoubleTextFields,
         FacebookLink: FacebookLink,
         LinkTarget: LinkTarget,
         Pdf: Pdf,

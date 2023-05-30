@@ -20,16 +20,7 @@ Vær opmærksom på at stierne inde i området flere steder er meget smalle, og 
         field1={<DateInput label="Dato" name="date" minRelativeDate="5" required />}
         field2={<CheckboxInput label="Fjern pullerter (rød cirkel nedenfor)" name="removeBollards" />}
     />
-    <DoubleTextFields
-        name1="licensePlate"
-        label1="Registreringsnummer"
-        helperText1="Fx »XY 12 345«"
-        inputProps1={{ maxLength: 20 }}
-        name2="description"
-        label2="Beskrivelse af køretøj"
-        helperText2="Fx »Flyttefirma X« eller »Udlejning Y«"
-        inputProps2={{ maxLength: 50 }}
-    />
+    <TextInput label="Beskrivelse af køretøj" name="subject" helperText="Fx »XY 12 345«, »Flyttefirma X« eller »Udlejning Y«" required inputProps={{ maxLength: 50 }} />
 </ContactForm>
 
 ![Oversigtskort over Frederikskaj 2](oversigtskort.png)

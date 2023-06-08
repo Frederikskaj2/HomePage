@@ -9,9 +9,11 @@ Man kan køre langs kajkanten fra Aalborg Universitet København. Det er også m
 
 Vær opmærksom på at stierne inde i området flere steder er meget smalle, og eventuelle skader på grønne områder forvoldt af køretøjet vil blive krævet udbedret for beboerens regning.
 
-I tvivlstillfælde kan man rette henvendelse til Copark på telefon 42&nbsp;90&nbsp;50&nbsp;10.
+## Anmod om tilladelse til parkering ved flytning
 
-## Ansøg om parkeringstilladelse
+Anmodningen sendes til Copark (og DEAS hvis pullerterne skal åbnes). I tvivlstillfælde kan man rette henvendelse til Copark på telefon 42&nbsp;90&nbsp;50&nbsp;10.
+
+Oplys registreringsnummer på køretøjet eller hvis ikke det er muligt beskriv det så godt som det kan lade sig gøre.
 
 <ContactForm type="flytning" buttonLabel="Send besked">
     <TextInput label="Fulde navn" name="name" required inputProps={{ maxLength: 100 }} />

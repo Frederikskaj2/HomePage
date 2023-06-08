@@ -11,9 +11,9 @@ Vær opmærksom på at stierne inde i området flere steder er meget smalle, og 
 
 ## Anmod om tilladelse til parkering ved flytning
 
-Anmodningen sendes til Copark (og DEAS hvis pullerterne skal åbnes). I tvivlstillfælde kan man rette henvendelse til Copark på telefon 42&nbsp;90&nbsp;50&nbsp;10.
+Oplys **registreringsnummer** på køretøjet, og kun hvis det ikke er muligt, beskriv det så detaljeret som det kan lade sig gøre.
 
-Oplys registreringsnummer på køretøjet eller hvis ikke det er muligt beskriv det så godt som det kan lade sig gøre.
+Anmodningen sendes til Copark (og DEAS hvis pullerterne skal åbnes). I tvivlstillfælde kan man rette henvendelse til Copark på telefon 42&nbsp;90&nbsp;50&nbsp;10.
 
 <ContactForm type="flytning" buttonLabel="Send besked">
     <TextInput label="Fulde navn" name="name" required inputProps={{ maxLength: 100 }} />

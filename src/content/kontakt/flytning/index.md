@@ -11,7 +11,7 @@ Vær opmærksom på at stierne inde i området flere steder er meget smalle, og 
 
 ## Anmod om tilladelse til parkering ved flytning
 
-Oplys **registreringsnummer** på køretøjet, og kun hvis det ikke er muligt, beskriv det så detaljeret som det kan lade sig gøre.
+Oplys **registreringsnummer** på køretøjet. Hvis du ikke kender registreringsnummeret, skal du beskrive køretøjet, så det kan genkendes af p-vagten.
 
 Anmodningen sendes til Copark (og DEAS hvis pullerterne skal åbnes). I tvivlstillfælde kan man rette henvendelse til Copark på telefon 42&nbsp;90&nbsp;50&nbsp;10.
 
@@ -23,7 +23,7 @@ Anmodningen sendes til Copark (og DEAS hvis pullerterne skal åbnes). I tvivlsti
         field1={<DateInput label="Dato" name="date" minRelativeDate="5" required />}
         field2={<CheckboxInput label="Fjern pullerter (rød cirkel nedenfor)" name="removeBollards" />}
     />
-    <TextInput label="Beskrivelse af køretøj" name="subject" helperText="Fx »XY&nbsp;12&nbsp;345«, »Flyttefirma&nbsp;X« eller »Udlejning&nbsp;Y«" required inputProps={{ maxLength: 50 }} />
+    <TextInput label="Registreringsnummer eller beskrivelse" name="subject" helperText="Fx »XY&nbsp;12&nbsp;345«, »Flyttefirma&nbsp;X« eller »Udlejning&nbsp;Y«" required inputProps={{ maxLength: 50 }} />
 </ContactForm>
 
 ![Oversigtskort over Frederikskaj 2](oversigtskort.png)

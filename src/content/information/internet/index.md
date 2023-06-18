@@ -18,9 +18,13 @@ I hver lejlighed findes en metallåge i væggen, og bagved denne låge ender for
 
 ## Parknet
 
-Ejerforeningen har i 2019 fået installeret sit eget netværk som benytter den fiberforbindelse som går ind i ejendommen, men så forgrener sig til hver tilsluttet lejlighed via et netværkskabel. Det koster 78&nbsp;kr. om måneden for internet som leveres af [Parknet](https://parknet.dk/). De lover en hastighed på »minimum 500/500 Mbit/s«, men i praksis er hastigheden typisk over 800/800 Mbit/s. Parknet kan ikke tilbyde tv eller telefoni på Frederikskaj&nbsp;2, men det er muligt at få en [offentlig IP-adresse](https://parknet.dk/tjenester/internet/faa-en-offentlig-ip-adresse/) mod et engangsgebyr.
+Ejerforeningen har i 2019 fået installeret sit eget netværk som benytter den fiberforbindelse som går ind i ejendommen, men så forgrener sig til hver tilsluttet lejlighed via et netværkskabel. Det koster 78&nbsp;kr. om måneden for internet som leveres af [Parknet](https://parknet.dk/). De lover en hastighed på »minimum 500/500 Mbit/s«, men i praksis er hastigheden typisk over 800/800 Mbit/s. Ønsker man en [offentlig IP-adresse](https://parknet.dk/tjenester/internet/faa-en-offentlig-ip-adresse/) kan den tilkøbes mod et engangsgebyr. Det er ikke muligt at få telefoni hos Parknet, men de tilbyder [tv-streaming fra Allente](https://www.allente.dk/parknet).
 
 import parknetPdf from './parknet.pdf'
 import parknetPng from './parknet.png'
+import allentePdf from './allente.pdf'
+import allentePng from './allente.png'
 
-<Pdf pdf={parknetPdf} image={parknetPng} test="Velkommen til Parknet" />
+<Pdf pdf={parknetPdf} image={parknetPng} text="Velkommen til Parknet" overlay="Forhåndsvisning" />
+
+<Pdf pdf={allentePdf} image={allentePng} text="Spændende tilbud fra Allende til alle Parknets brugere" overlay="Forhåndsvisning" />

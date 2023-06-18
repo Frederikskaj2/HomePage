@@ -9,5 +9,5 @@ redirectFrom:
 import vedtaegterPdf from './vedtaegter.pdf'
 import vedtaegterPng from './vedtaegter.png'
 
-<Pdf pdf={vedtaegterPdf} image={vedtaegterPng} text="Vedtægter for Ejerforeningen Frederikskaj 2 &mdash; Etape 1" />
+<Pdf pdf={vedtaegterPdf} image={vedtaegterPng} text="Vedtægter for Ejerforeningen Frederikskaj 2 &mdash; Etape 1" overlay="Forhåndsvisning" />
 

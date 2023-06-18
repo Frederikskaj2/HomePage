@@ -11,5 +11,5 @@ For at blive sponsor skal du udfylde nedenstående aftale og sende den til [vint
 import sponsoraftalePdf from './sponsoraftale.pdf'
 import sponsoraftalePng from './sponsoraftale.png'
 
-<Pdf pdf={sponsoraftalePdf} image={sponsoraftalePng} text="Sponsoraftale" />
+<Pdf pdf={sponsoraftalePdf} image={sponsoraftalePng} text="Sponsoraftale" overlay="Forhåndsvisning" />
 

@@ -13,4 +13,4 @@ Hårdheden af vandet er sat til 6&nbsp;°dH (»blødt«), og dette er blevet tes
 import kalkfritVandPdf from './kalkfrit-vand.pdf'
 import kalkfritVandPng from './kalkfrit-vand.png'
 
-<Pdf pdf={kalkfritVandPdf} image={kalkfritVandPng} text="Information om blødgjort vand" />
+<Pdf pdf={kalkfritVandPdf} image={kalkfritVandPng} text="Information om blødgjort vand" overlay="Forhåndsvisning"/>

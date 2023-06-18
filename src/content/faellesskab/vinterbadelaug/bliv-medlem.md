@@ -15,4 +15,4 @@ For at blive medlem skal du udfylde indmeldelsesblanket og sende den til [vinter
 import indmeldelsesblanketPdf from './indmeldelsesblanket.pdf'
 import indmeldelsesblanketPng from './indmeldelsesblanket.png'
 
-<Pdf pdf={indmeldelsesblanketPdf} image={indmeldelsesblanketPng} text="Indmeldelseblanket" />
+<Pdf pdf={indmeldelsesblanketPdf} image={indmeldelsesblanketPng} text="Indmeldelseblanket" overlay="Forhåndsvisning" />

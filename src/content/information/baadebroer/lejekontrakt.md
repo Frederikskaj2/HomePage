@@ -14,11 +14,11 @@ Der er to forskellige lejekontrakter:
 import lejekontraktBeboerPdf from './lejekontrakt-beboer.pdf'
 import lejekontraktBeboerPng from './lejekontrakt-beboer.png'
 
-<Pdf pdf={lejekontraktBeboerPdf} image={lejekontraktBeboerPng} text="Lejekontrakt vedrørende bådpldads - beboer" />
+<Pdf pdf={lejekontraktBeboerPdf} image={lejekontraktBeboerPng} text="Lejekontrakt vedrørende bådpldads - beboer" overlay="Forhåndsvisning" />
 
 ## Lejekontrakt for ikke-beboer
 
 import lejekontraktIkkeBeboerPdf from './lejekontrakt-ikke-beboer.pdf'
 import lejekontraktIkkeBeboerPng from './lejekontrakt-ikke-beboer.png'
 
-<Pdf pdf={lejekontraktIkkeBeboerPdf} image={lejekontraktIkkeBeboerPng} text="Lejekontrakt vedrørende bådpldads - ikke-beboer" />
+<Pdf pdf={lejekontraktIkkeBeboerPdf} image={lejekontraktIkkeBeboerPng} text="Lejekontrakt vedrørende bådpldads - ikke-beboer" overlay="Forhåndsvisning" />

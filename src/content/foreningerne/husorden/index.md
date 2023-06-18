@@ -8,4 +8,4 @@ redirectFrom:
 import husordenPdf from './husorden.pdf'
 import husordenPng from './husorden.png'
 
-<Pdf pdf={husordenPdf} image={husordenPng} text="Husorden og vejledning &mdash; juni 2021" />
+<Pdf pdf={husordenPdf} image={husordenPng} text="Husorden og vejledning &mdash; juni 2021" overlay="Forhåndsvisning" />

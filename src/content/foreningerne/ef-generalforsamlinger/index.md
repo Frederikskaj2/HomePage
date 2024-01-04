@@ -7,6 +7,18 @@ redirectFrom:
 ---
 Dokumenter vedrørende generalforsamlinger i Ejerforeningen Frederikskaj&nbsp;2.
 
+## Generalforsamling 24. maj 2023
+
+import referat20230524 from './referat-2023-05-24.pdf'
+import aarsberetning20230524 from './aarsberetning-2023-05-24.pdf'
+import aarsrapport2022 from './aarsrapport-2022.pdf'
+import budget2023 from './budget-2023.pdf'
+
+- <Pdf pdf={referat20230524} text="Referat" />
+- <Pdf pdf={aarsberetning20230524} text="Årsberetning" />
+- <Pdf pdf={aarsrapport2022} text="Årsrapport" />
+- <Pdf pdf={budget2023} text="Budget" />
+
 ## Ekstraordinær generalforsamling 29. november 2022
 
 import referat20221129 from './referat-2022-11-29.pdf'

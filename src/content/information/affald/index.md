@@ -50,7 +50,7 @@ Pizzabakker kan ikke komme i affaldsskakten med mindre de er klippet i mindre st
 
 Al affald som ikke kan sorteres og som ikke kan være i en container til restaffald samt farligt affald skal afleveres på en genbrugsstation.
 
-Nærmeste genbrugsstation er [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/), Bådehavnsgade 50, 2450 København SV, afstand ca. 1&nbsp;km.
+Nærmeste genbrugsstation er [Sydhavn Genbrugscenter](https://sydhavngenbrugscenter.kk.dk/), Bådehavnsgade 50, 2450 København SV, afstand ca. 1&nbsp;km. På alle genbrugsstationer kan man låne en ladcykel eller trækvogn helt gratis.
 
 <div class="iframe-container">
   <iframe title="Kort som viser Sydhavn Genbrugscenter" src="https://www.openstreetmap.org/export/embed.html?bbox=12.528083324432375%2C55.63124243188086%2C12.55140781402588%2C55.64645368368984&amp;layer=mapnik&amp;marker=55.63884879609704%2C12.539734840393066" loading="lazy"></iframe>

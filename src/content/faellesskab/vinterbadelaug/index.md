@@ -26,9 +26,11 @@ Som firma kan du tegne et sponsorat, hvorved dit firmanavn bliver eksponeret, sa
 
 ### Sponsorer
 
-- Effektiv Førstehjælp
-- 7-Eleven v. Emurlahi ApS
 - CANI Shipping
+
+## Betalinger
+
+Vinterbadelauget har egen MobilePay konto 791586 (Vinterbadelauget Frederikskaj&nbsp;2), der skal benyttes til betalinger for events, el-køb eller indmelding.
 
 ## Kontakt
 
@@ -36,9 +38,9 @@ Kontakt for yderligere information og indmeldelse: [vinterbadelaugetfrederikskaj
 
 Formand: Søren Peder Sørensen; 20&nbsp;27&nbsp;85&nbsp;16
 
-Kasserer: Claus Mikkelsen; 21&nbsp;94&nbsp;26&nbsp;98
+Kasserer: Claus Mikkelsen; 21&nbsp;94&nbsp;26&nbsp;98; MobilePay 791586
 
-For påfyldning af el-kort: Søren Peder Sørensen; 20&nbsp;27&nbsp;85&nbsp;16
+For påfyldning af el-kort: Karen-Lise Christensen; [karen_lise@yahoo.dk](mailto:karen_lise@yahoo.dk)
 
 Vinterbadelauget har sin egen [Facebook-gruppe](https://www.facebook.com/groups/251798845424659/) med løbende opdateringer og med mulighed for booking af event.
 

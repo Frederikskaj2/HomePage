@@ -10,7 +10,7 @@ Vinterbadelaugets sauna er placeret mellem fælleshuset og husbådene, lige over
 
 Som medlem får du udleveret et el-kort, som er personligt og ikke må overdrages til andre. Med el-kortet styrer du selv dit forbrug, og du kan selv bestemme, hvornår du vil benytte saunaen alle ugens dage i tidsrummet fra kl.&nbsp;06.30 til kl.&nbsp;22.00
 
-Som et særligt tilbud til medlemmer holder Vinterbadelauget åben sauna hver søndag fra 10.30 til&nbsp;12.00 og onsdag aften fra 19.30 til&nbsp;20.30, hvor saunaen er opvarmet og til fri benyttelse. Tilbuddet gælder i februar og marts 2020.
+Som et særligt tilbud til medlemmer holder Vinterbadelauget åben sauna hver søndag i sæsonen.
 
 ## Medlemskab
 
@@ -38,7 +38,7 @@ Kontakt for yderligere information og indmeldelse: [vinterbadelaugetfrederikskaj
 
 Formand: Søren Peder Sørensen; 20&nbsp;27&nbsp;85&nbsp;16
 
-Kasserer: Claus Mikkelsen; 21&nbsp;94&nbsp;26&nbsp;98; MobilePay 791586
+Kasserer: Claus Mikkelsen; 21&nbsp;94&nbsp;26&nbsp;98
 
 For påfyldning af el-kort: Karen-Lise Christensen; [karen_lise@yahoo.dk](mailto:karen_lise@yahoo.dk)
 

@@ -20,8 +20,8 @@ Der vil blive holdt en venteliste for beboere Frederikskaj&nbsp;2, men **ikke** 
 
 Lejepriserne er:
 
-- Kr.&nbsp;500/måned for små pladser, betalt 12&nbsp;måneder forud.
-- Kr.&nbsp;550/måned for store pladser, betalt 12&nbsp;måneder forud.
+- Kr.&nbsp;625,00/måned for små pladser, betalt 12&nbsp;måneder forud.
+- Kr.&nbsp;687,50/måned for store pladser, betalt 12&nbsp;måneder forud.
 
 Derudover skal der betale et depositum på 6&nbsp;måneders leje.
 

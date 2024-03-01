@@ -17,9 +17,9 @@ import reglerForUdlejningAfBaadpladserPng from './regler-for-udlejning-af-baadpl
 ## Havnereglement Københavns Havn
 
 import havnereglementPdf from './havnereglement.pdf'
-import havnereglementJpg from './havnereglement.jpg'
+import havnereglementPng from './havnereglement.png'
 
-<Pdf pdf={havnereglementPdf} image={havnereglementJpg} text="Havnereglement Københavns Havn 2016" overlay="Forhåndsvisning" />
+<Pdf pdf={havnereglementPdf} image={havnereglementPng} text="Havnereglement Københavns Havn 24.03.2021" overlay="Forhåndsvisning" />
 
 # Vandlejekontrakt
 

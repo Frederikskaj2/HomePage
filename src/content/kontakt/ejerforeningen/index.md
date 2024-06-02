@@ -11,7 +11,7 @@ Bestyrelsen består af:
 - Stefan Vrang (formand)
 - Finn Frigast Larsen
 - Martin Liversage
-- Natalia Anna Czyzynski
+- Natalia Koch
 - Tine Christiansen
 
 Suppleanter:

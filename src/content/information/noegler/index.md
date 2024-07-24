@@ -6,7 +6,7 @@ redirectFrom:
 ---
 ## »Postnøgler«
 
-Opgangene på Frederikskaj&nbsp;2 er tilsluttet [Bekey](https://www.bekey.dk/beboer/) hvilket betyder at leverandører mv. som er tilsuttet denne tjeneste kan levere fx måltidskasser i opgangene. Udlevering af fysiske »postnøgler« er ikke noget bestyrelsen godkender.
+Opgangene på Frederikskaj&nbsp;2 er tilsluttet [Bekey](https://www.bekey.dk/beboer/) hvilket betyder at leverandører mv. som benytter denne tjeneste kan levere fx måltidskasser i opgangene. Udlevering af fysiske »postnøgler« er ikke noget bestyrelsen godkender.
 
 ## Hoveddørs-/gadedørsnøgler
 

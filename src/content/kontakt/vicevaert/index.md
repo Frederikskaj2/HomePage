@@ -28,7 +28,3 @@ Hvis du oplever problemer udenfor din lejlighed fx en opgangsdør, eller du gern
 
 - Telefon 21&nbsp;20&nbsp;30&nbsp;03 mandag&ndash;fredag kl. 08:00&ndash;14:00 (sms besvares ikke).
 - Mail til jan@jr-servicefirma.dk. Mail besvares senest to hverdage efter modtagelse.
-
-## Viceværtens postkasse
-
-Hvis du har nøgler eller andet som skal gives til viceværten, så findes viceværtens postkasse ved nedgangen til varmecentralen imellem opgang 2N og&nbsp;2P.

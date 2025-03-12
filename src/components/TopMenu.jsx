@@ -132,7 +132,7 @@ export default function TopMenu() {
                         </MegaMenu>
                         <IconButton
                             color="inherit"
-                            href="https:/www.facebook.com/groups/frederikskaj2"
+                            href="https://www.facebook.com/groups/frederikskaj2"
                             target="_blank"
                             rel="noopener"
                             title="Facebook-gruppen »Frederikskaj 2 - Beboere/Residents«"

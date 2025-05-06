@@ -11,14 +11,14 @@ Viceværtsfunktionen på Frederikskaj&nbsp;2 er opdelt således:
 | Område | Vicevært |
 | :- | :- |
 | Lejeboliger (opgang A, B, C, F, G, M, N) | [DEAS](https://deas.dk/da) |
-| Ejerboliger (opgang D, E, F, H, K, L, P, R) | [JR-Servicefirma](https://www.jr-servicefirma.dk/) |
-| Øvrige fælles områder | [JR-Servicefirma](https://www.jr-servicefirma.dk/) |
+| Ejerboliger (opgang D, E, H, K, L, P, R) | [JR-Servicefirma](https://jr-service-firma.ewkunde.dk/) |
+| Øvrige fælles områder | [JR-Servicefirma](https://jr-service-firma.ewkunde.dk/) |
 
 ## Lejer (opgang A, B, C, F, G, M, N)
 
 Kontakt DEAS fx via deres app.
 
-## Ejer (opgang D, E, F, H, K, L, P, R)
+## Ejer (opgang D, E, H, K, L, P, R)
 
 Viceværten kan **ikke** hjælpe med problemstillinger vedrørende din lejlighed, fx dit ventilationsanlæg eller dine elinstallationer.
 

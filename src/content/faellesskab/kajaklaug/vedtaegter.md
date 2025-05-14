@@ -2,7 +2,7 @@
 title: Vedtægter for kajaklauget
 menuTitle: Vedtægter
 menuGroup: kajaklaug
-sequence: 6
+sequence: 4
 ---
 import kajaklaugVedtaegterPdf from './vedtaegter.pdf'
 import kajaklaugVedtaegterPng from './vedtaegter.png'

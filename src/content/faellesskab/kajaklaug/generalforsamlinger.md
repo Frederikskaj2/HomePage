@@ -1,7 +1,7 @@
 ---
 title: Generalforsamlinger
 menuGroup: kajaklaug
-sequence: 5
+sequence: 3
 redirectFrom:
     - /generalforsamlinger-vedtaegter-for-kajaklauget
 ---

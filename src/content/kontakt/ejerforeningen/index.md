@@ -8,19 +8,18 @@ redirectFrom:
 ---
 Bestyrelsen består af:
 
-- Stefan Vrang (formand)
+- Dar Nerst (formand)
 - Finn Frigast Larsen
-- Martin Liversage
-- Natalia Koch
+- Kasper Mohn
+- Mads Ole Aaris
 - Tine Christiansen
 
 Suppleanter:
 
-- Dar Nerst
+- Casper Guldborg
 - Ditte Gottlieb
 - Morten Johansen
-- Thomas Cato
-- Thomas Sloth Hedegaard
+- Natalia Anna Koch
 
 ## Skriv til bestyrelsen
 

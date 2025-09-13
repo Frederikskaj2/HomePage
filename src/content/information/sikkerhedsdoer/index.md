@@ -11,7 +11,7 @@ Der blev i slutningen af 2017 holdt beboermøde i fælleshuset med fremvisning a
 
 De bestilte sikkerhedsdøre blev installeret i marts 2018. Det er dog stadig muligt individuelt at bestille en sikkerhedsdør, men formodentligt til en højere pris, da samme mængderabat nok ikke opnås &mdash; selvom I, ved at gå mindst to sammen, opnår rabat. Bestyrelsen kan dog ikke garantere, at prisen ikke går op over tid.
 
-<Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="Tilbuddet fra Dansk Dørsikring fra 2017" />
+<p><Pdf pdf={tilbudPaaSikkerhedsdoerPdf} text="Tilbuddet fra Dansk Dørsikring fra 2017" /></p>
 
 Hvis du ønsker en sikkerhedsdør, så skal [Dansk Dørsikring](https://www.danskdorsikring.dk/) kontaktes på [info@danskdorsikring.dk](mailto:info@danskdorsikring.dk), med ejerforeningen@frederikskaj2.dk i kopi.
 
@@ -21,12 +21,12 @@ Sikkerhedsdørene leveres med nøglecylinder og medfølgende nøgler. Så hvis d
 
 ## Sikkerhedsdør installeret på Frederikskaj 2
 
-<div class="iframe-container">
+<div className="iframe-container">
   <iframe title="Video med sikkerhedsdør installeret på Frederikskaj 2" src="https://www.youtube.com/embed/4jd8xO1qpg4" loading="lazy"></iframe>
 </div>
 
 ## Video om sikkerhedsdør i samme sikkerhedsklasse
 
-<div class="iframe-container">
+<div className="iframe-container">
   <iframe title="Video om sikkerhedsdør" src="https://www.youtube.com/embed/y0aOC9Y6XSM" loading="lazy"></iframe>
 </div>

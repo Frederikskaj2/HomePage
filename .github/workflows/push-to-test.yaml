@@ -30,4 +30,7 @@ jobs:
         run: echo "COMMITSHORT=`echo ${{github.sha}} | cut -c-10`" >> $GITHUB_ENV
       - name: Post to Teams
         run: >
-          sed -e 's/TIMESTAMP/${{env.TIMESTAMP}}/' -e s/COMMITSHORT/${{env.COMMITSHORT}}/ -e s/COMMITLONG/${{github.sha}}/ .github/workflows/push-to-test-success.json | curl -d @- -H 'Content-Type: application/json' -X POST ${{secrets.TEAMS_WEBHOOK}}
+          Get-Content -Path .github/workflows/push-to-test-success.json -Raw
+            | ForEach-Object -Process { $_ -creplace 'TIMESTAMP', '${{env.TIMESTAMP}}' -creplace 'COMMITSHORT', '${{env.COMMITSHORT}}' -creplace 'COMMITLONG', '${{github.sha}}' }
+            | Invoke-RestMethod -Uri '${{secrets.TEAMS_WEBHOOK}}' -Method Post -Headers @{ 'Content-Type' = 'application/json' }
+        shell: pwsh

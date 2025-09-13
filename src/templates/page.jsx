@@ -5,8 +5,8 @@ import Typography from '@mui/material/Typography';
 import Layout from '../components/Layout.jsx';
 import Markdown from '../components/Markdown.jsx';
 import Seo from '../components/Seo.jsx';
-import 'fontsource-public-sans/200.css';
-import 'fontsource-public-sans/700.css';
+import '@fontsource/public-sans/200.css';
+import '@fontsource/public-sans/700.css';
 
 export default function Page({ pageContext: { frontmatter }, children }) {
     return (

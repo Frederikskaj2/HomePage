@@ -1,36 +1,73 @@
 {
-	"@type": "MessageCard",
-	"@context": "https://schema.org/extensions",
-	"title": "Hjemmeside opdateret",
-	"summary": "Ny testversion",
-	"sections": [
-		{
-            "activityTitle": "Testhjemmeside",
-            "activitySubtitle": "TIMESTAMP",
-            "activityImage": "https://test.frederikskaj2.dk/icon.png",
-			"text": "Ny version bygget fra [git commit COMMITSHORT](https://github.com/Frederikskaj2/HomePage/tree/COMMITLONG)."
-		}
-	],
-	"potentialAction": [
-		{
-			"@type": "OpenUri",
-			"name": "Besøg testhjemmeside",
-			"targets": [
-				{
-					"os": "default",
-					"uri": "https://test.frederikskaj2.dk/"
-				}
-			]
-		},
-		{
-			"@type": "OpenUri",
-			"name": "Opdatér hjemmeside fra testhjemmeside",
-			"targets": [
-				{
-					"os": "default",
-					"uri": "https://github.com/Frederikskaj2/HomePage/actions/workflows/push-to-production.yaml?query=workflow%3A%22Push+to+production%22"
-				}
-			]
-		}
-	]
+    "type": "message",
+    "attachments": [
+        {
+            "contentType": "application/vnd.microsoft.card.adaptive",
+            "content": {
+                "type": "AdaptiveCard",
+                "body": [
+                    {
+                        "type": "TextBlock",
+                        "size": "Large",
+                        "weight": "Bolder",
+                        "text": "Ny testversion"
+                    },
+                    {
+                        "type": "ColumnSet",
+                        "columns": [
+                            {
+                                "type": "Column",
+                                "items": [
+                                    {
+                                        "type": "Image",
+                                        "url": "https://test.frederikskaj2.dk/icon.png",
+                                        "altText": "Frederikskaj 2",
+                                        "size": "Medium"
+                                    }
+                                ],
+                                "width": "auto"
+                            },
+                            {
+                                "type": "Column",
+                                "items": [
+                                    {
+                                        "type": "TextBlock",
+                                        "weight": "Bolder",
+                                        "text": "Testhjemmeside"
+                                    },
+                                    {
+                                        "type": "TextBlock",
+                                        "text": "TIMESTAMP",
+                                        "isSubtle": true,
+                                        "spacing": "Small"
+                                    }
+                                ],
+                                "width": "stretch"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TextBlock",
+                        "text": "Ny version bygget fra [git commit COMMITSHORT](https://github.com/Frederikskaj2/HomePage/tree/COMMITLONG).",
+                        "wrap": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "type": "Action.OpenUrl",
+                        "title": "Besøg testhjemmeside",
+                        "url": "https://test.frederikskaj2.dk/"
+                    },
+                    {
+                        "type": "Action.OpenUrl",
+                        "title": "Opdatér hjemmeside fra testhjemmeside",
+                        "url": "https://github.com/Frederikskaj2/HomePage/actions/workflows/push-to-production.yaml?query=workflow%3A%22Push+to+production%22"
+                    }
+                ],
+                "speak": "Ny version af testhjemmesiden.",
+                "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+                "version": "1.5"
+            }
+        }
+    ]
 }

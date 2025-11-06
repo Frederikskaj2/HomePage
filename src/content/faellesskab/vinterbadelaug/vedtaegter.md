@@ -1,7 +1,7 @@
 ---
 title: Vedtægter
 menuGroup: vinterbadelaug
-sequence: 8
+sequence: 7
 ---
 import vinterbadelaugVedtaegterPdf from './vedtaegter.pdf'
 import vinterbadelaugVedtaegterPng from './vedtaegter.png'

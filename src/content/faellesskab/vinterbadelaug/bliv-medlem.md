@@ -6,7 +6,7 @@ sequence: 2
 ---
 Alle beboere på Frederikskaj&nbsp;2, der er fyldt 18 år, er velkomne som medlemmer. Omfattet er også de bådpladslejere, som ikke bor på Frederikskaj 2. Medlemmer, der er fraflyttet bebyggelsen, kan beholde deres medlemskab.
 
-Medlemskabet er personligt og koster 500&nbsp;kr. for en sæson plus 250&nbsp;kr. i indmeldelsesgebyr, hvoraf 100&nbsp;kr. er sat ind på el-kortet.
+Medlemskabet er personligt og koster 500&nbsp;kr. for en sæson plus 150&nbsp;kr. (engangsbeløb). I alt 650&nbsp;kr.
 
 Som medlem må du tage en gæst med i saunaen. Du har også mulighed for at booke saunaen til din egen private event. Det koster 250&nbsp;kr. for 1½&nbsp;time.
 

@@ -3,7 +3,7 @@ title: Parkering ved flytning
 menuGroup: beboer
 sequence: 2
 ---
-I forbindelse med flytning eller levering af større genstande til boligen kan man få tilladelse til at parkere et køretøj foran ens opgang. Ansøgning skal indsendes mindst **to dage** før. Hvis man har brug for en tilladelse i flere dage skal man lave flere ansøgninger.
+I forbindelse med flytning eller levering af større genstande til boligen kan man få tilladelse til at parkere et køretøj foran ens opgang i tidsrummet 7:00&ndash;19:00. Ansøgning skal indsendes mindst **to dage** før. Hvis man har brug for en tilladelse i flere dage skal man lave flere ansøgninger.
 
 Man kan køre langs kajkanten fra Aalborg Universitet København. Det er også muligt at åbne pullerterne ved indkørslen til området (rød cirkel på oversigtskortet nedenfor).
 

@@ -27,4 +27,4 @@ For at sikre et ensartet udtryk har ejerforeningen en aftale med viceværten om,
 Hvis du oplever problemer udenfor din lejlighed fx en opgangsdør, eller du gerne vil bestille navneskilte til din postkasse, kan JR Service kontaktes:
 
 - Telefon 21&nbsp;20&nbsp;30&nbsp;03 mandag&ndash;fredag kl. 08:00&ndash;14:00 (sms besvares ikke).
-- Mail til jan@jr-servicefirma.dk. Mail besvares senest to hverdage efter modtagelse.
+- Mail til [info@jr-servicefirma.dk](info@jr-servicefirma.dk). Mail besvares senest to hverdage efter modtagelse.

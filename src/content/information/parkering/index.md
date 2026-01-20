@@ -33,7 +33,7 @@ Frederikskaj&nbsp;2 har tre handikap-pladser ud for opgang&nbsp;2R, som er klart
 
 Generelt er al motorkørsel inde i bebyggelsen forbudt, som også markeret med skilte ved indkørselsvejene, og derfor er den indre del af bebyggelsen afspærret. Undtagelsen er dog, hvis man har indhentet tilladelse i forbindelse med flytning eller andet.
 
-Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man [søge om tilladelse](http://localhost:8000/kontakt/flytning/) til at køre ind og parkere på vejene foran bygningerne.
+Ved ind- og udflytning, eller f.eks. aflæsning af større møbler, kan man [søge om tilladelse](/kontakt/flytning/) til at køre ind og parkere på vejene foran bygningerne.
 
 Det er dog aldrig tilladt at køre ind på eller over græs og bede, og en gartnerregning vil følge hvis dette sker.
 

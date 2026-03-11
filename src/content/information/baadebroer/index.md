@@ -29,7 +29,7 @@ Ved indgåelse af [lejekontrakt](lejekontrakt/) opkræver administrator et engan
 
 ## Kontakt
 
-Udlejning og venteliste bestyres af Sjeldani Boligadministration som kan [kontaktes her på siden](/kontakt/baadpladser).
+Udlejning og venteliste bestyres af By&Bolig som kan [kontaktes her på siden](/kontakt/baadpladser).
 
 ## Lav vanddybde - pas på!
 

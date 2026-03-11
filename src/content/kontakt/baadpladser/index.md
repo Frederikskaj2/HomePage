@@ -3,9 +3,9 @@ title: Kontakt vedrørende bådpladser
 menuTitle: Bådpladser
 menuGroup: baadejer
 ---
-Bådpladser administreres af [Sjeldani Boligadministration](https://sjeldani.dk/).
+Bådpladser administreres af [By&Bolig](https://byogbolig.com/).
 
-## Skriv til Sjeldani om bådpladser
+## Skriv til By&Bolig om bådpladser
 
 <ContactForm type='baadplads' buttonLabel="Send besked">
     <TextInput label="Fulde navn" name="name" required inputProps={{maxLength: 100}} />

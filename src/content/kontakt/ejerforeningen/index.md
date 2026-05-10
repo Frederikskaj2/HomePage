@@ -11,15 +11,14 @@ Bestyrelsen består af:
 - Dar Nerst (formand)
 - Finn Frigast Larsen
 - Kasper Mohn
-- Mads Ole Aaris
+- Natalia Anna Koch
 - Tine Christiansen
 
 Suppleanter:
 
 - Casper Guldborg
-- Ditte Gottlieb
 - Morten Johansen
-- Natalia Anna Koch
+- Rasmus Jakobsen
 
 ## Skriv til bestyrelsen
 

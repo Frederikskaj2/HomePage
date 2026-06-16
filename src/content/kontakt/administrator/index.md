@@ -6,7 +6,7 @@ sequence: 2
 redirectFrom:
     - /kontakt-bestyrelsen/administrator
 ---
-Ejerforeningen administreres af [LEA Ejendomspartner](https://www.lea.dk/).
+Ejerforeningen administreres af [Administration Danmark](https://www.administrationdanmark.dk/).
 
 ## Hvornår skal administratoren kontaktes?
 
@@ -16,15 +16,6 @@ Ejerforeningen administreres af [LEA Ejendomspartner](https://www.lea.dk/).
 - Al henvendelse vedrørende ejerforeningens forsikringer skal gå igennem administrator, og **ikke** direkte til forsikringsselskabet.
 
 **Ved akut skade skal [vicevært først kontaktes!](/kontakt/vicevaert/)**
-
-Gebyrer (per juli 2020):
-
-- Gebyr for besvarelse af ejerlejlighedsskema fra ejendomsmægler i forbindelse med salg: kr.&nbsp;4.250,–
-- Ejerskiftegebyr ved indflytning: kr.&nbsp;2.100,– (opkræves hos køber)
-- Rykkergebyr ved for sen betaling af fællesudgifter m.m.: Begynder ved kr.&nbsp;100,–
-- Gebyr for manuel genfremsendelse af opkrævninger og lign.: kr.&nbsp;135,–
-
-LEA opkræver ikke gebyr vedr. vand/varme, men forsyningsselskaberne opkræver et gebyr på omkring kr. 500–700 Dette gebyr pålægges sælger.
 
 ## Skriv til administrator
 
